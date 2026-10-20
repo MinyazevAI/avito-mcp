@@ -29,6 +29,3 @@ tests/*.log
 # Настройки редактора
 .vscode/
 *.code-workspace
-
-# Рабочее задание — только локально
-TASK.md
