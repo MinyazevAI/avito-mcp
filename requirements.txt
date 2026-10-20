@@ -1,0 +1,3 @@
+# Проверено на этих версиях (Windows, Python 3.12, Edge 155)
+mcp==1.30.0
+playwright==1.64.0

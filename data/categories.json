@@ -1,0 +1,2907 @@
+[
+{
+"name": "Купить жильё",
+"parent": null,
+"path": "kvartiry/prodam-ASgBAgICAUSSA8YQ"
+},
+{
+"name": "Все квартиры",
+"parent": "Купить жильё",
+"path": "kvartiry/prodam-ASgBAgICAUSSA8YQ"
+},
+{
+"name": "Вторичка",
+"parent": "Купить жильё",
+"path": "kvartiry/prodam/vtorichka-ASgBAgICAkSSA8YQ5geMUg"
+},
+{
+"name": "Новостройки",
+"parent": "Купить жильё",
+"path": "kvartiry/prodam/novostroyka-ASgBAgICAkSSA8YQ5geOUg"
+},
+{
+"name": "Каталог новостроек",
+"parent": "Купить жильё",
+"path": "kvartiry/catalog/novostroyki-ASgBAgICA0SSA8YQ5geOUvLFDvCTmgI"
+},
+{
+"name": "Дома, дачи, коттеджи",
+"parent": "Купить жильё",
+"path": "doma_dachi_kottedzhi/prodam-ASgBAgICAUSUA9AQ"
+},
+{
+"name": "Комнаты",
+"parent": "Купить жильё",
+"path": "komnaty/prodam-ASgBAgICAUSQA7wQ"
+},
+{
+"name": "Путешествия",
+"parent": null,
+"path": "kvartiry/sdam/posutochno/-ASgBAgICAkSSA8gQ8AeSUg"
+},
+{
+"name": "Квартиры посуточно",
+"parent": "Путешествия",
+"path": "kvartiry/sdam/posutochno/-ASgBAgICAkSSA8gQ8AeSUg"
+},
+{
+"name": "Дома, дачи и коттеджи",
+"parent": "Путешествия",
+"path": "doma_dachi_kottedzhi/sdam/posutochno-ASgBAgICAkSUA9IQoAjKVQ"
+},
+{
+"name": "Комнаты и койко-места",
+"parent": "Путешествия",
+"path": "komnaty/sdam/posutochno/-ASgBAgICAkSQA74QqAn4YA"
+},
+{
+"name": "Отели",
+"parent": "Путешествия",
+"path": "realty_rent/hotels-ASgBAgICAkSksxTkoY8DyP4UAg"
+},
+{
+"name": "Снять долгосрочно",
+"parent": null,
+"path": "kvartiry/sdam/na_dlitelnyy_srok-ASgBAgICAkSSA8gQ8AeQUg"
+},
+{
+"name": "Квартиры",
+"parent": "Снять долгосрочно",
+"path": "kvartiry/sdam/na_dlitelnyy_srok-ASgBAgICAkSSA8gQ8AeQUg"
+},
+{
+"name": "Дома, дачи и коттеджи",
+"parent": "Снять долгосрочно",
+"path": "doma_dachi_kottedzhi/sdam/na_dlitelnyy_srok-ASgBAgICAkSUA9IQoAjIVQ"
+},
+{
+"name": "Комнаты и койко-места",
+"parent": "Снять долгосрочно",
+"path": "komnaty/sdam/na_dlitelnyy_srok-ASgBAgICAkSQA74QqAn2YA"
+},
+{
+"name": "Коммерческая недвижимость",
+"parent": null,
+"path": "kommercheskaya_nedvizhimost"
+},
+{
+"name": "Офисы",
+"parent": "Коммерческая недвижимость",
+"path": "kommercheskaya_nedvizhimost/prodam-ASgBAgICAUSwCNJW"
+},
+{
+"name": "Свободного назначения",
+"parent": "Коммерческая недвижимость",
+"path": "kommercheskaya_nedvizhimost/prodam-ASgBAgICAUSwCNJW"
+},
+{
+"name": "Торговые площади",
+"parent": "Коммерческая недвижимость",
+"path": "kommercheskaya_nedvizhimost/prodam-ASgBAgICAUSwCNJW"
+},
+{
+"name": "Склады",
+"parent": "Коммерческая недвижимость",
+"path": "kommercheskaya_nedvizhimost/prodam-ASgBAgICAUSwCNJW"
+},
+{
+"name": "Другие категории",
+"parent": null,
+"path": "zemelnye_uchastki"
+},
+{
+"name": "Земельные участки",
+"parent": "Другие категории",
+"path": "zemelnye_uchastki"
+},
+{
+"name": "Гаражи и машиноместа",
+"parent": "Другие категории",
+"path": "garazhi_i_mashinomesta"
+},
+{
+"name": "Зарубежная недвижимость",
+"parent": "Другие категории",
+"path": "nedvizhimost_za_rubezhom"
+},
+{
+"name": "Транспорт",
+"parent": null,
+"path": "transport"
+},
+{
+"name": "Автомобили",
+"parent": "Транспорт",
+"path": "avtomobili"
+},
+{
+"name": "Мотоциклы и мототехника",
+"parent": "Транспорт",
+"path": "mototsikly_i_mototehnika"
+},
+{
+"name": "Вездеходы",
+"parent": "Мотоциклы и мототехника",
+"path": "mototsikly_i_mototehnika/vezdehody-ASgBAgICAUQ84AE"
+},
+{
+"name": "Картинг",
+"parent": "Мотоциклы и мототехника",
+"path": "mototsikly_i_mototehnika/karting-ASgBAgICAUQ8zk0"
+},
+{
+"name": "Квадроциклы и багги",
+"parent": "Мотоциклы и мототехника",
+"path": "mototsikly_i_mototehnika/kvadrotsikly-ASgBAgICAUQ83AE"
+},
+{
+"name": "Мопеды и скутеры",
+"parent": "Мотоциклы и мототехника",
+"path": "mototsikly_i_mototehnika/mopedy_i_skutery-ASgBAgICAUQ82gE"
+},
+{
+"name": "Мотоциклы",
+"parent": "Мотоциклы и мототехника",
+"path": "mototsikly_i_mototehnika/mototsikly-ASgBAgICAUQ80k0"
+},
+{
+"name": "Снегоходы",
+"parent": "Мотоциклы и мототехника",
+"path": "mototsikly_i_mototehnika/snegohody-ASgBAgICAUQ8oiw"
+},
+{
+"name": "Грузовики и спецтехника",
+"parent": "Транспорт",
+"path": "gruzoviki_i_spetstehnika"
+},
+{
+"name": "Грузовики",
+"parent": "Грузовики и спецтехника",
+"path": "gruzoviki_i_spetstehnika/gruzoviki-ASgBAgICAURUkAI"
+},
+{
+"name": "Сельхозтехника",
+"parent": "Грузовики и спецтехника",
+"path": "gruzoviki_i_spetstehnika/selhoztehnika-ASgBAgICAURUtCw"
+},
+{
+"name": "Седельные тягачи",
+"parent": "Грузовики и спецтехника",
+"path": "gruzoviki_i_spetstehnika/tyagachi-ASgBAgICAURU5E0"
+},
+{
+"name": "Прицепы",
+"parent": "Грузовики и спецтехника",
+"path": "gruzoviki_i_spetstehnika/pritsepy-ASgBAgICAURU4k0"
+},
+{
+"name": "Экскаваторы",
+"parent": "Грузовики и спецтехника",
+"path": "gruzoviki_i_spetstehnika/ekskavatory-ASgBAgICAURU5k0"
+},
+{
+"name": "Автобусы",
+"parent": "Грузовики и спецтехника",
+"path": "gruzoviki_i_spetstehnika/avtobusy-ASgBAgICAURUjgI"
+},
+{
+"name": "Автодома",
+"parent": "Грузовики и спецтехника",
+"path": "gruzoviki_i_spetstehnika/avtodoma-ASgBAgICAURUkk8"
+},
+{
+"name": "Автокраны",
+"parent": "Грузовики и спецтехника",
+"path": "gruzoviki_i_spetstehnika/avtokrany-ASgBAgICAURU2k0"
+},
+{
+"name": "Бульдозеры",
+"parent": "Грузовики и спецтехника",
+"path": "gruzoviki_i_spetstehnika/buldozery-ASgBAgICAURU3E0"
+},
+{
+"name": "Коммунальная техника",
+"parent": "Грузовики и спецтехника",
+"path": "gruzoviki_i_spetstehnika/kommunalnaya_tehnika-ASgBAgICAURUsCw"
+},
+{
+"name": "Лёгкий коммерческий транспорт",
+"parent": "Грузовики и спецтехника",
+"path": "gruzoviki_i_spetstehnika/legkiy_transport-ASgBAgICAURU3k0"
+},
+{
+"name": "Навесное оборудование",
+"parent": "Грузовики и спецтехника",
+"path": "gruzoviki_i_spetstehnika/navesnoe_oborudovanie-ASgBAgICAURUkoBZ"
+},
+{
+"name": "Погрузчики",
+"parent": "Грузовики и спецтехника",
+"path": "gruzoviki_i_spetstehnika/pogruzchiki-ASgBAgICAURU4E0"
+},
+{
+"name": "Строительная техника",
+"parent": "Грузовики и спецтехника",
+"path": "gruzoviki_i_spetstehnika/stroitelnaya_tehnika-ASgBAgICAURUkgI"
+},
+{
+"name": "Техника для лесозаготовки",
+"parent": "Грузовики и спецтехника",
+"path": "gruzoviki_i_spetstehnika/tehnika_dlya_lesozagotovki-ASgBAgICAURUsiw"
+},
+{
+"name": "Другое",
+"parent": "Грузовики и спецтехника",
+"path": "gruzoviki_i_spetstehnika/drugoe-ASgBAgICAURU2IBc"
+},
+{
+"name": "Аренда спецтехники",
+"parent": "Транспорт",
+"path": "predlozheniya_uslug/transport_perevozki/arenda_spetstekhniki-ASgBAgICAkSYC8SfAZoL3J8B"
+},
+{
+"name": "Водный транспорт",
+"parent": "Транспорт",
+"path": "vodnyy_transport"
+},
+{
+"name": "Вёсельные лодки",
+"parent": "Водный транспорт",
+"path": "vodnyy_transport/veselnye_lodki-ASgBAgICAUQONA"
+},
+{
+"name": "Гидроциклы",
+"parent": "Водный транспорт",
+"path": "vodnyy_transport/gidrotsikly-ASgBAgICAUQOPA"
+},
+{
+"name": "Катера и яхты",
+"parent": "Водный транспорт",
+"path": "vodnyy_transport/katera_i_yahty-ASgBAgICAUQOPg"
+},
+{
+"name": "Моторные лодки и моторы",
+"parent": "Водный транспорт",
+"path": "vodnyy_transport/motornye_lodki-ASgBAgICAUQOOA"
+},
+{
+"name": "Запчасти и аксессуары",
+"parent": "Транспорт",
+"path": "zapchasti_i_aksessuary"
+},
+{
+"name": "Запчасти",
+"parent": "Запчасти и аксессуары",
+"path": "zapchasti_i_aksessuary/zapchasti-ASgBAgICAUQKJA"
+},
+{
+"name": "Шины, диски и колёса",
+"parent": "Запчасти и аксессуары",
+"path": "zapchasti_i_aksessuary/shiny_diski_i_kolesa-ASgBAgICAUQKJg"
+},
+{
+"name": "Аудио- и видеотехника",
+"parent": "Запчасти и аксессуары",
+"path": "zapchasti_i_aksessuary/audio-_i_videotehnika-ASgBAgICAUQKKA"
+},
+{
+"name": "Аксессуары",
+"parent": "Запчасти и аксессуары",
+"path": "zapchasti_i_aksessuary/zapchasti_i_aksessuary/aksessuary-ASgBAgICAUQKnk0"
+},
+{
+"name": "Багажники и фаркопы",
+"parent": "Запчасти и аксессуары",
+"path": "zapchasti_i_aksessuary/bagazhniki_i_farkopy-ASgBAgICAUQKyE0"
+},
+{
+"name": "Инструменты",
+"parent": "Запчасти и аксессуары",
+"path": "zapchasti_i_aksessuary/instrumenty-ASgBAgICAUQKxk0"
+},
+{
+"name": "Прицепы",
+"parent": "Запчасти и аксессуары",
+"path": "zapchasti_i_aksessuary/pritsepy-ASgBAgICAUQKyk0"
+},
+{
+"name": "Экипировка",
+"parent": "Запчасти и аксессуары",
+"path": "zapchasti_i_aksessuary/ekipirovka-ASgBAgICAUQKoGQ"
+},
+{
+"name": "Масла и автохимия",
+"parent": "Запчасти и аксессуары",
+"path": "zapchasti_i_aksessuary/zapchasti_i_aksessuary/masla_i_avtohimiya-ASgBAgICAUQKnE0"
+},
+{
+"name": "Противоугонные устройства",
+"parent": "Запчасти и аксессуары",
+"path": "zapchasti_i_aksessuary/protivougonnye_ustroystva-ASgBAgICAUQKoE0"
+},
+{
+"name": "GPS-навигаторы",
+"parent": "Запчасти и аксессуары",
+"path": "zapchasti_i_aksessuary/gps-navigatory-ASgBAgICAUQKKg"
+},
+{
+"name": "Недвижимость",
+"parent": null,
+"path": "nedvizhimost"
+},
+{
+"name": "Работа",
+"parent": null,
+"path": "rabota"
+},
+{
+"name": "Ищу работу",
+"parent": "Работа",
+"path": "vakansii"
+},
+{
+"name": "Архитектура и дизайн",
+"parent": "Ищу работу",
+"path": "vakansii/arxitektura_i_dizain-ASgBAgICAUSOC9aXkAM"
+},
+{
+"name": "Банковские и финансовые услуги",
+"parent": "Ищу работу",
+"path": "vakansii/bankovskie_i_finansovye_uslugi-ASgBAgICAUSOC~aXkAM"
+},
+{
+"name": "Бытовые и персональные услуги",
+"parent": "Ищу работу",
+"path": "vakansii/bytovye_i_personalnye_uslugi-ASgBAgICAUSOC~yXkAM"
+},
+{
+"name": "Госслужба",
+"parent": "Ищу работу",
+"path": "vakansii/gossluzba-ASgBAgICAUSOC~iXkAM"
+},
+{
+"name": "Гостиничный бизнес и туризм",
+"parent": "Ищу работу",
+"path": "vakansii/gostinicnyi_biznes_i_turizm-ASgBAgICAUSOC7SYkAM"
+},
+{
+"name": "Добыча, переработка угля, руд и других полезных ископаемых",
+"parent": "Ищу работу",
+"path": "vakansii/dobyca_pererabotka_uglia_rud_i_drugix_poleznyx_iskopaemyx-ASgBAgICAUSOC4iYkAM"
+},
+{
+"name": "Добыча, переработка, транспортировка нефти и газа",
+"parent": "Ищу работу",
+"path": "vakansii/dobyca_pererabotka_transportirovka_nefti_i_gaza-ASgBAgICAUSOC4qYkAM"
+},
+{
+"name": "Доставка, грузоперевозки и логистика",
+"parent": "Ищу работу",
+"path": "vakansii/dostavka_gruzoperevozki_i_logistika-ASgBAgICAUSOC_iXkAM"
+},
+{
+"name": "ЖКХ и городская инфраструктура",
+"parent": "Ищу работу",
+"path": "vakansii/zkx_i_gorodskaia_infrastruktura-ASgBAgICAUSOC_CXkAM"
+},
+{
+"name": "Игорный бизнес",
+"parent": "Ищу работу",
+"path": "vakansii/igornyi_biznes-ASgBAgICAUSOC_SXkAM"
+},
+{
+"name": "Информационные технологии",
+"parent": "Ищу работу",
+"path": "vakansii/informacionnye_texnologii-ASgBAgICAUSOC~CXkAM"
+},
+{
+"name": "Искусство и развлечения",
+"parent": "Ищу работу",
+"path": "vakansii/iskusstvo_i_razvleceniia-ASgBAgICAUSOC_KXkAM"
+},
+{
+"name": "Клининг",
+"parent": "Ищу работу",
+"path": "vakansii/klining-ASgBAgICAUSOC~6XkAM"
+},
+{
+"name": "Консалтинг",
+"parent": "Ищу работу",
+"path": "vakansii/konsalting-ASgBAgICAUSOC_aXkAM"
+},
+{
+"name": "Лесная и деревообрабатывающая промышленность",
+"parent": "Ищу работу",
+"path": "vakansii/lesnaia_i_derevoobrabatyvaiushhaia_promyslennost-ASgBAgICAUSOC4aYkAM"
+},
+{
+"name": "Маркетинг, реклама и PR",
+"parent": "Ищу работу",
+"path": "vakansii/marketing_reklama_i_pr-ASgBAgICAUSOC_qXkAM"
+},
+{
+"name": "Медицина и фармацевтика",
+"parent": "Ищу работу",
+"path": "vakansii/medicina_i_farmacevtika-ASgBAgICAUSOC_yXkAM"
+},
+{
+"name": "Металлургическая промышленность",
+"parent": "Ищу работу",
+"path": "vakansii/metallurgiceskaia_promyslennost-ASgBAgICAUSOC5SYkAM"
+},
+{
+"name": "НКО и общественная деятельность",
+"parent": "Ищу работу",
+"path": "vakansii/nko_i_obshhestvennaia_deiatelnost-ASgBAgICAUSOC~qXkAM"
+},
+{
+"name": "Оборонная промышленность",
+"parent": "Ищу работу",
+"path": "vakansii/oboronnaia_promyslennost-ASgBAgICAUSOC6CYkAM"
+},
+{
+"name": "Образование и наука",
+"parent": "Ищу работу",
+"path": "vakansii/obrazovanie_i_nauka-ASgBAgICAUSOC_6XkAM"
+},
+{
+"name": "Общественное питание",
+"parent": "Ищу работу",
+"path": "vakansii/obshhestvennoe_pitanie-ASgBAgICAUSOC7KYkAM"
+},
+{
+"name": "Организация мероприятий",
+"parent": "Ищу работу",
+"path": "vakansii/organizaciia_meropriiatii-ASgBAgICAUSOC9KXkAM"
+},
+{
+"name": "Охрана и общественный порядок",
+"parent": "Ищу работу",
+"path": "vakansii/oxrana_i_obshhestvennyi_poriadok-ASgBAgICAUSOC4CYkAM"
+},
+{
+"name": "Переработка отходов",
+"parent": "Ищу работу",
+"path": "vakansii/pererabotka_otxodov-ASgBAgICAUSOC96XkAM"
+},
+{
+"name": "Пищевая промышленность",
+"parent": "Ищу работу",
+"path": "vakansii/pishhevaia_promyslennost-ASgBAgICAUSOC46YkAM"
+},
+{
+"name": "Продажа и обслуживание автомобилей",
+"parent": "Ищу работу",
+"path": "vakansii/prodaza_i_obsluzivanie_avtomobilei-ASgBAgICAUSOC~SXkAM"
+},
+{
+"name": "Продажа и управление недвижимостью",
+"parent": "Ищу работу",
+"path": "vakansii/prodaza_i_upravlenie_nedvizimostiu-ASgBAgICAUSOC6qYkAM"
+},
+{
+"name": "Производство непродовольственных потребительских товаров",
+"parent": "Ищу работу",
+"path": "vakansii/proizvodstvo_neprodovolstvennyx_potrebitelskix_tovarov-ASgBAgICAUSOC5qYkAM"
+},
+{
+"name": "Производство промышленного оборудования и станков",
+"parent": "Ищу работу",
+"path": "vakansii/proizvodstvo_promyslennogo_oborudovaniia_i_stankov-ASgBAgICAUSOC5aYkAM"
+},
+{
+"name": "Производство тканей, одежды и обуви",
+"parent": "Ищу работу",
+"path": "vakansii/proizvodstvo_tkanei_odezdy_i_obuvi-ASgBAgICAUSOC4yYkAM"
+},
+{
+"name": "Производство электро- и оптического оборудования",
+"parent": "Ищу работу",
+"path": "vakansii/proizvodstvo_elektro_i_opticeskogo_oborudovaniia-ASgBAgICAUSOC5iYkAM"
+},
+{
+"name": "Производство электроники и бытовой техники",
+"parent": "Ищу работу",
+"path": "vakansii/proizvodstvo_elektroniki_i_bytovoi_texniki-ASgBAgICAUSOC56YkAM"
+},
+{
+"name": "Ракетно-космическая промышленность",
+"parent": "Ищу работу",
+"path": "vakansii/raketno_kosmiceskaia_promyslennost-ASgBAgICAUSOC5CYkAM"
+},
+{
+"name": "Ремонт и отделка помещений",
+"parent": "Ищу работу",
+"path": "vakansii/remont_i_otdelka_pomeshhenii-ASgBAgICAUSOC6iYkAM"
+},
+{
+"name": "Ритуальные услуги",
+"parent": "Ищу работу",
+"path": "vakansii/ritualnye_uslugi-ASgBAgICAUSOC9SXkAM"
+},
+{
+"name": "Розничная и оптовая торговля",
+"parent": "Ищу работу",
+"path": "vakansii/roznicnaia_i_optovaia_torgovlia-ASgBAgICAUSOC4KYkAM"
+},
+{
+"name": "Сельское хозяйство",
+"parent": "Ищу работу",
+"path": "vakansii/selskoe_xoziaistvo-ASgBAgICAUSOC4SYkAM"
+},
+{
+"name": "Склады и хранилища",
+"parent": "Ищу работу",
+"path": "vakansii/sklady_i_xranilishha-ASgBAgICAUSOC66YkAM"
+},
+{
+"name": "СМИ и издательское дело",
+"parent": "Ищу работу",
+"path": "vakansii/smi_i_izdatelskoe_delo-ASgBAgICAUSOC9iXkAM"
+},
+{
+"name": "Страхование",
+"parent": "Ищу работу",
+"path": "vakansii/strakhovanie-ASgBAgICAUSOC5aikAM"
+},
+{
+"name": "Строительство жилых и коммерческих объектов",
+"parent": "Ищу работу",
+"path": "vakansii/stroitelstvo_zilyx_i_kommerceskix_obieektov-ASgBAgICAUSOC6SYkAM"
+},
+{
+"name": "Строительство промышленных и инфраструктурных объектов",
+"parent": "Ищу работу",
+"path": "vakansii/stroitelstvo_promyslennyx_i_infrastrukturnyx_obieektov-ASgBAgICAUSOC6aYkAM"
+},
+{
+"name": "Такси и пассажирские перевозки",
+"parent": "Ищу работу",
+"path": "vakansii/taksi_i_passazirskie_perevozki-ASgBAgICAUSOC6yYkAM"
+},
+{
+"name": "Телекоммуникации и связь",
+"parent": "Ищу работу",
+"path": "vakansii/telekommunikacii_i_sviaz-ASgBAgICAUSOC~KXkAM"
+},
+{
+"name": "Техническое обслуживание, ремонт техники и оборудования",
+"parent": "Ищу работу",
+"path": "vakansii/texniceskoe_obsluzivanie_remont_texniki_i_oborudovaniia-ASgBAgICAUSOC9yXkAM"
+},
+{
+"name": "Транспортное машиностроение",
+"parent": "Ищу работу",
+"path": "vakansii/transportnoe_masinostroenie-ASgBAgICAUSOC6KYkAM"
+},
+{
+"name": "Тяжёлое машиностроение",
+"parent": "Ищу работу",
+"path": "vakansii/tiazeloe_masinostroenie-ASgBAgICAUSOC5yYkAM"
+},
+{
+"name": "Управление персоналом",
+"parent": "Ищу работу",
+"path": "vakansii/upravlenie_personalom-ASgBAgICAUSOC5iikAM"
+},
+{
+"name": "Управление транспортной инфраструктурой",
+"parent": "Ищу работу",
+"path": "vakansii/upravlenie_transportnoi_infrastrukturoi-ASgBAgICAUSOC7CYkAM"
+},
+{
+"name": "Фитнес-клубы, спа и салоны красоты",
+"parent": "Ищу работу",
+"path": "vakansii/fitnes_kluby_spa_i_salony_krasoty-ASgBAgICAUSOC7aYkAM"
+},
+{
+"name": "Химическая промышленность",
+"parent": "Ищу работу",
+"path": "vakansii/ximiceskaia_promyslennost-ASgBAgICAUSOC5KYkAM"
+},
+{
+"name": "Энергетика",
+"parent": "Ищу работу",
+"path": "vakansii/energetika-ASgBAgICAUSOC9qXkAM"
+},
+{
+"name": "Юриспруденция",
+"parent": "Ищу работу",
+"path": "vakansii/yurisprudenciya-ASgBAgICAUSOC5qikAM"
+},
+{
+"name": "Ищу сотрудника",
+"parent": "Работа",
+"path": "rezume"
+},
+{
+"name": "IT, интернет, телеком",
+"parent": "Ищу сотрудника",
+"path": "rezume/it_internet_telekom-ASgBAgICAUSUC~yeAQ"
+},
+{
+"name": "Автомобильный бизнес",
+"parent": "Ищу сотрудника",
+"path": "rezume/avtomobilnyy_biznes-ASgBAgICAUSUC4ifAQ"
+},
+{
+"name": "Административная работа",
+"parent": "Ищу сотрудника",
+"path": "rezume/administrativnaya_rabota-ASgBAgICAUSUC56fAQ"
+},
+{
+"name": "Банки, инвестиции",
+"parent": "Ищу сотрудника",
+"path": "rezume/banki_investitsii-ASgBAgICAUSUC6CfAQ"
+},
+{
+"name": "Без опыта, студенты",
+"parent": "Ищу сотрудника",
+"path": "rezume/bez_opyta_studenty-ASgBAgICAUSUC_6eAQ"
+},
+{
+"name": "Бухгалтерия, финансы",
+"parent": "Ищу сотрудника",
+"path": "rezume/buhgalteriya_finansy-ASgBAgICAUSUC4qfAQ"
+},
+{
+"name": "Высший менеджмент",
+"parent": "Ищу сотрудника",
+"path": "rezume/vysshiy_menedzhment-ASgBAgICAUSUC4yfAQ"
+},
+{
+"name": "Госслужба, НКО",
+"parent": "Ищу сотрудника",
+"path": "rezume/gossluzhba_nko-ASgBAgICAUSUC46fAQ"
+},
+{
+"name": "Домашний персонал",
+"parent": "Ищу сотрудника",
+"path": "rezume/domashniy_personal-ASgBAgICAUSUC5iHAg"
+},
+{
+"name": "ЖКХ, эксплуатация",
+"parent": "Ищу сотрудника",
+"path": "rezume/zhkh_ekspluatatsiya-ASgBAgICAUSUC5CfAQ"
+},
+{
+"name": "Искусство, развлечения",
+"parent": "Ищу сотрудника",
+"path": "rezume/iskusstvo_razvlecheniya-ASgBAgICAUSUC5KfAQ"
+},
+{
+"name": "Консультирование",
+"parent": "Ищу сотрудника",
+"path": "rezume/konsultirovanie-ASgBAgICAUSUC5SfAQ"
+},
+{
+"name": "Курьерская доставка",
+"parent": "Ищу сотрудника",
+"path": "rezume/kurerskaya_dostavka-ASgBAgICAUSUC7ao1gI"
+},
+{
+"name": "Маркетинг, реклама, PR",
+"parent": "Ищу сотрудника",
+"path": "rezume/marketing_reklama_pr-ASgBAgICAUSUC5afAQ"
+},
+{
+"name": "Медицина, фармацевтика",
+"parent": "Ищу сотрудника",
+"path": "rezume/meditsina_farmatsevtika-ASgBAgICAUSUC~6eAQ"
+},
+{
+"name": "Образование, наука",
+"parent": "Ищу сотрудника",
+"path": "rezume/obrazovanie_nauka-ASgBAgICAUSUC_aeAQ"
+},
+{
+"name": "Охрана, безопасность",
+"parent": "Ищу сотрудника",
+"path": "rezume/ohrana_bezopasnost-ASgBAgICAUSUC5ifAQ"
+},
+{
+"name": "Продажи",
+"parent": "Ищу сотрудника",
+"path": "rezume/prodazhi-ASgBAgICAUSUC_CeAQ"
+},
+{
+"name": "Производство, сырьё, с/х",
+"parent": "Ищу сотрудника",
+"path": "rezume/proizvodstvo_syryo_sh-ASgBAgICAUSUC6KfAQ"
+},
+{
+"name": "Страхование",
+"parent": "Ищу сотрудника",
+"path": "rezume/strahovanie-ASgBAgICAUSUC_KeAQ"
+},
+{
+"name": "Строительство",
+"parent": "Ищу сотрудника",
+"path": "rezume/stroitelstvo-ASgBAgICAUSUC_ieAQ"
+},
+{
+"name": "Такси",
+"parent": "Ищу сотрудника",
+"path": "rezume/taksi-ASgBAgICAUSUC7So1gI"
+},
+{
+"name": "Транспорт, логистика",
+"parent": "Ищу сотрудника",
+"path": "rezume/transport_logistika-ASgBAgICAUSUC_SeAQ"
+},
+{
+"name": "Туризм, рестораны",
+"parent": "Ищу сотрудника",
+"path": "rezume/turizm_restorany-ASgBAgICAUSUC_qeAQ"
+},
+{
+"name": "Управление персоналом",
+"parent": "Ищу сотрудника",
+"path": "rezume/upravlenie_personalom-ASgBAgICAUSUC5qfAQ"
+},
+{
+"name": "Фитнес, салоны красоты",
+"parent": "Ищу сотрудника",
+"path": "rezume/fitnes_salony_krasoty-ASgBAgICAUSUC_yeAQ"
+},
+{
+"name": "Юриспруденция",
+"parent": "Ищу сотрудника",
+"path": "rezume/yurisprudentsiya-ASgBAgICAUSUC5yfAQ"
+},
+{
+"name": "Услуги",
+"parent": null,
+"path": "predlozheniya_uslug"
+},
+{
+"name": "Личные вещи",
+"parent": null,
+"path": "lichnye_veschi"
+},
+{
+"name": "Как на праздник",
+"parent": "Личные вещи",
+"path": "odezhda_obuv_aksessuary"
+},
+{
+"name": "Деловой стиль",
+"parent": "Личные вещи",
+"path": "odezhda_obuv_aksessuary"
+},
+{
+"name": "Жизнь в движении",
+"parent": "Личные вещи",
+"path": "odezhda_obuv_aksessuary"
+},
+{
+"name": "Время отдохнуть",
+"parent": "Личные вещи",
+"path": "odezhda_obuv_aksessuary"
+},
+{
+"name": "Винтажные образы",
+"parent": "Личные вещи",
+"path": "odezhda_obuv_aksessuary"
+},
+{
+"name": "Одежда, обувь, аксессуары",
+"parent": "Личные вещи",
+"path": "odezhda_obuv_aksessuary"
+},
+{
+"name": "Женская одежда",
+"parent": "Одежда, обувь, аксессуары",
+"path": "odezhda_obuv_aksessuary/zhenskaya_odezhda-ASgBAgICAUTeAtYL"
+},
+{
+"name": "Женская обувь",
+"parent": "Одежда, обувь, аксессуары",
+"path": "odezhda_obuv_aksessuary/obuv_zhenskaya-ASgBAgICAUTeAryp1gI"
+},
+{
+"name": "Мужская одежда",
+"parent": "Одежда, обувь, аксессуары",
+"path": "odezhda_obuv_aksessuary/muzhskaya_odezhda-ASgBAgICAUTeAtgL"
+},
+{
+"name": "Мужская обувь",
+"parent": "Одежда, обувь, аксессуары",
+"path": "odezhda_obuv_aksessuary/obuv_muzhskaya-ASgBAgICAUTeArqp1gI"
+},
+{
+"name": "Сумки, рюкзаки и чемоданы",
+"parent": "Одежда, обувь, аксессуары",
+"path": "odezhda_obuv_aksessuary/sumki_ryukzaki_i_chemodany-ASgBAgICAUTeArip1gI"
+},
+{
+"name": "Аксессуары",
+"parent": "Одежда, обувь, аксессуары",
+"path": "odezhda_obuv_aksessuary/kupit-aksessuary-ASgBAgICAUTeAtoL"
+},
+{
+"name": "Детская одежда и обувь",
+"parent": "Личные вещи",
+"path": "detskaya_odezhda_i_obuv"
+},
+{
+"name": "Для девочек",
+"parent": "Детская одежда и обувь",
+"path": "detskaya_odezhda_i_obuv/odezhda-dlya_devochek-ASgBAgICAUTkAuwL"
+},
+{
+"name": "Для мальчиков",
+"parent": "Детская одежда и обувь",
+"path": "detskaya_odezhda_i_obuv/odezhda-dlya_malchikov-ASgBAgICAUTkAu4L"
+},
+{
+"name": "Товары для детей и игрушки",
+"parent": "Личные вещи",
+"path": "tovary_dlya_detey_i_igrushki"
+},
+{
+"name": "Автомобильные кресла",
+"parent": "Товары для детей и игрушки",
+"path": "tovary_dlya_detey_i_igrushki/avtomobilnye_kresla-ASgBAgICAUT~AZIJ"
+},
+{
+"name": "Самокаты и беговелы",
+"parent": "Товары для детей и игрушки",
+"path": "tovary_dlya_detey_i_igrushki/samokaty_i_begovely-ASgBAgICAUT~AaCGAQ"
+},
+{
+"name": "Детская мебель",
+"parent": "Товары для детей и игрушки",
+"path": "tovary_dlya_detey_i_igrushki/detskaya_mebel-ASgBAgICAUT~AZQJ"
+},
+{
+"name": "Детские коляски",
+"parent": "Товары для детей и игрушки",
+"path": "tovary_dlya_detey_i_igrushki/detskie_kolyaski-ASgBAgICAUT~AZgJ"
+},
+{
+"name": "Игрушки",
+"parent": "Товары для детей и игрушки",
+"path": "tovary_dlya_detey_i_igrushki/igrushki-ASgBAgICAUT~AZYJ"
+},
+{
+"name": "Постельные принадлежности",
+"parent": "Товары для детей и игрушки",
+"path": "tovary_dlya_detey_i_igrushki/postelnye_prinadlezhnosti-ASgBAgICAUT~AcRP"
+},
+{
+"name": "Товары для кормления",
+"parent": "Товары для детей и игрушки",
+"path": "tovary_dlya_detey_i_igrushki/tovary_dlya_kormleniya-ASgBAgICAUT~AZJM"
+},
+{
+"name": "Товары для купания",
+"parent": "Товары для детей и игрушки",
+"path": "tovary_dlya_detey_i_igrushki/tovary_dlya_kupaniya-ASgBAgICAUT~AcZP"
+},
+{
+"name": "Товары для школы",
+"parent": "Товары для детей и игрушки",
+"path": "tovary_dlya_detey_i_igrushki/tovary_dlya_shkoly-ASgBAgICAUT~AchP"
+},
+{
+"name": "Детская гигиена",
+"parent": "Товары для детей и игрушки",
+"path": "tovary_dlya_detey_i_igrushki/detskaya_gigiena-ASgBAgICAUT~AcqWmAM"
+},
+{
+"name": "Красота и здоровье",
+"parent": "Личные вещи",
+"path": "krasota_i_zdorove"
+},
+{
+"name": "Макияж и маникюр",
+"parent": "Красота и здоровье",
+"path": "krasota_i_zdorove/makiyazh_i_manikyur-ASgBAgICAUSEAqIJ"
+},
+{
+"name": "Парфюмерия",
+"parent": "Красота и здоровье",
+"path": "krasota_i_zdorove/parfyumeriya-ASgBAgICAUSEAqYJ"
+},
+{
+"name": "Приборы и аксессуары",
+"parent": "Красота и здоровье",
+"path": "krasota_i_zdorove/pribory_i_aksessuary-ASgBAgICAUSEAqAJ"
+},
+{
+"name": "Уход и гигиена",
+"parent": "Красота и здоровье",
+"path": "krasota_i_zdorove/ukhod_i_gigiena-ASgBAgICAUSEAqoJ"
+},
+{
+"name": "Средства для волос",
+"parent": "Красота и здоровье",
+"path": "krasota_i_zdorove/sredstva_dlya_volos-ASgBAgICAUSEAspP"
+},
+{
+"name": "Медицинские изделия",
+"parent": "Красота и здоровье",
+"path": "krasota_i_zdorove/meditsinskie_izdeliya-ASgBAgICAUSEAqgJ"
+},
+{
+"name": "БАДы",
+"parent": "Красота и здоровье",
+"path": "krasota_i_zdorove/bady-ASgBAgICAUSEArSzlwM"
+},
+{
+"name": "Часы и украшения",
+"parent": "Личные вещи",
+"path": "chasy_i_ukrasheniya"
+},
+{
+"name": "Ювелирные изделия",
+"parent": "Часы и украшения",
+"path": "chasy_i_ukrasheniya/yuvelirnye_izdeliya-ASgBAgICAUTQAYgG"
+},
+{
+"name": "Часы",
+"parent": "Часы и украшения",
+"path": "chasy_i_ukrasheniya/chasy-ASgBAgICAUTQAYYG"
+},
+{
+"name": "Бижутерия",
+"parent": "Часы и украшения",
+"path": "chasy_i_ukrasheniya/bizhuteriya-ASgBAgICAUTQAYoG"
+},
+{
+"name": "Для дома и дачи",
+"parent": null,
+"path": "dlya_doma_i_dachi"
+},
+{
+"name": "Ремонт и строительство",
+"parent": "Для дома и дачи",
+"path": "remont_i_stroitelstvo"
+},
+{
+"name": "Двери",
+"parent": "Ремонт и строительство",
+"path": "remont_i_stroitelstvo/dveri-ASgBAgICAURYnEs"
+},
+{
+"name": "Инструменты",
+"parent": "Ремонт и строительство",
+"path": "remont_i_stroitelstvo/instrumenty-ASgBAgICAURYoks"
+},
+{
+"name": "Камины и обогреватели",
+"parent": "Ремонт и строительство",
+"path": "remont_i_stroitelstvo/kaminy_i_obogrevateli-ASgBAgICAURYlgI"
+},
+{
+"name": "Окна и балконы",
+"parent": "Ремонт и строительство",
+"path": "remont_i_stroitelstvo/okna_i_balkony-ASgBAgICAURYoEs"
+},
+{
+"name": "Потолки",
+"parent": "Ремонт и строительство",
+"path": "remont_i_stroitelstvo/potolki-ASgBAgICAURYnks"
+},
+{
+"name": "Для сада и дачи",
+"parent": "Ремонт и строительство",
+"path": "remont_i_stroitelstvo/dlya_sada_i_dachi-ASgBAgICAURYnAI"
+},
+{
+"name": "Сантехника, водоснабжение и сауна",
+"parent": "Ремонт и строительство",
+"path": "remont_i_stroitelstvo/santehnika_i_sauna-ASgBAgICAURYngI"
+},
+{
+"name": "Стройматериалы",
+"parent": "Ремонт и строительство",
+"path": "remont_i_stroitelstvo/stroymaterialy-ASgBAgICAURYoAI"
+},
+{
+"name": "Готовые строения и срубы",
+"parent": "Ремонт и строительство",
+"path": "remont_i_stroitelstvo/gotovye_stroeniya_i_sruby-ASgBAgICAURYlrI6"
+},
+{
+"name": "Ворота, заборы и ограждения",
+"parent": "Ремонт и строительство",
+"path": "remont_i_stroitelstvo/vorota_zabory_i_ograzhdeniya-ASgBAgICAURYkpmPAw"
+},
+{
+"name": "Мебель и интерьер",
+"parent": "Для дома и дачи",
+"path": "mebel_i_interer"
+},
+{
+"name": "Компьютерные столы и кресла",
+"parent": "Мебель и интерьер",
+"path": "mebel_i_interer/kompyuternye_stoly_i_kresla-ASgBAgICAURa0E8"
+},
+{
+"name": "Кровати, диваны и кресла",
+"parent": "Мебель и интерьер",
+"path": "mebel_i_interer/myagkaya_mebel-ASgBAgICAURaqgI"
+},
+{
+"name": "Кухонные гарнитуры",
+"parent": "Мебель и интерьер",
+"path": "mebel_i_interer/kuhonnye_garnitury-ASgBAgICAURazk8"
+},
+{
+"name": "Освещение",
+"parent": "Мебель и интерьер",
+"path": "mebel_i_interer/osveschenie-ASgBAgICAURarAI"
+},
+{
+"name": "Подставки и тумбы",
+"parent": "Мебель и интерьер",
+"path": "mebel_i_interer/podstavki_i_tumby-ASgBAgICAURargI"
+},
+{
+"name": "Предметы интерьера, искусство",
+"parent": "Мебель и интерьер",
+"path": "mebel_i_interer/predmety_interera_iskusstvo-ASgBAgICAURapAI"
+},
+{
+"name": "Столы и стулья",
+"parent": "Мебель и интерьер",
+"path": "mebel_i_interer/stoly_i_stulya-ASgBAgICAURasAI"
+},
+{
+"name": "Текстиль и ковры",
+"parent": "Мебель и интерьер",
+"path": "mebel_i_interer/tekstil_i_kovry-ASgBAgICAURasgI"
+},
+{
+"name": "Шкафы, комоды и стеллажи",
+"parent": "Мебель и интерьер",
+"path": "mebel_i_interer/shkafy_komodyi_stellazhi-ASgBAgICAURaqAI"
+},
+{
+"name": "Садовая мебель",
+"parent": "Мебель и интерьер",
+"path": "mebel_i_interer/sadovaya_mebel-ASgBAgICAURa6rCXAw"
+},
+{
+"name": "Другое",
+"parent": "Мебель и интерьер",
+"path": "mebel_i_interer/drugoe-ASgBAgICAURatgI"
+},
+{
+"name": "Бытовая техника",
+"parent": "Для дома и дачи",
+"path": "bytovaya_tehnika"
+},
+{
+"name": "Для кухни",
+"parent": "Бытовая техника",
+"path": "bytovaya_tehnika/dlya_kuhni-ASgBAgICAURglk8"
+},
+{
+"name": "Для дома",
+"parent": "Бытовая техника",
+"path": "bytovaya_tehnika/dlya_doma-ASgBAgICAURgpE8"
+},
+{
+"name": "Климатическое оборудование",
+"parent": "Бытовая техника",
+"path": "bytovaya_tehnika/klimaticheskoe_oborudovanie-ASgBAgICAURguE8"
+},
+{
+"name": "Для индивидуального ухода",
+"parent": "Бытовая техника",
+"path": "bytovaya_tehnika/dlya_individualnogo_uhoda-ASgBAgICAURgrk8"
+},
+{
+"name": "Другое",
+"parent": "Бытовая техника",
+"path": "bytovaya_tehnika/drugoe-ASgBAgICAURgvgs"
+},
+{
+"name": "Продукты питания",
+"parent": "Для дома и дачи",
+"path": "produkty_pitaniya"
+},
+{
+"name": "Чай, кофе, какао",
+"parent": "Продукты питания",
+"path": "produkty_pitaniya/chai_kofe_kakao-ASgBAgICAUS8qxXArZID"
+},
+{
+"name": "Напитки",
+"parent": "Продукты питания",
+"path": "produkty_pitaniya/napitki-ASgBAgICAUS8qxXGrZID"
+},
+{
+"name": "Рыба, морепродукты, икра",
+"parent": "Продукты питания",
+"path": "produkty_pitaniya/ryba_moreprodukty_ikra-ASgBAgICAUS8qxXQrZID"
+},
+{
+"name": "Мясо, птица, субпродукты",
+"parent": "Продукты питания",
+"path": "produkty_pitaniya/myaso_ptica_subprodukty-ASgBAgICAUS8qxXSrZID"
+},
+{
+"name": "Кондитерские изделия",
+"parent": "Продукты питания",
+"path": "produkty_pitaniya/konditerskie_izdeliya-ASgBAgICAUS8qxXIrZID"
+},
+{
+"name": "Мёд и продукты пчеловодства",
+"parent": "Продукты питания",
+"path": "produkty_pitaniya/myod_i_produkty_pchelovodstva-ASgBAgICAUS8qxW~rZID"
+},
+{
+"name": "Бакалея",
+"parent": "Продукты питания",
+"path": "produkty_pitaniya/bakaleya-ASgBAgICAUS8qxXKrZID"
+},
+{
+"name": "Овощи, грибы и зелень",
+"parent": "Продукты питания",
+"path": "produkty_pitaniya/ovoshi__griby_i_zelen-ASgBAgICAUS8qxXOrZID"
+},
+{
+"name": "Молочные продукты, сыры, яйца",
+"parent": "Продукты питания",
+"path": "produkty_pitaniya/molochnye_produkty_syry_yaica-ASgBAgICAUS8qxXMrZID"
+},
+{
+"name": "Фрукты и ягоды",
+"parent": "Продукты питания",
+"path": "produkty_pitaniya/frukty_i_yagody-ASgBAgICAUS8qxXErZID"
+},
+{
+"name": "Хлеб и выпечка",
+"parent": "Продукты питания",
+"path": "produkty_pitaniya/khleb_i_vypechka-ASgBAgICAUS8qxXUrZID"
+},
+{
+"name": "Специализированное питание",
+"parent": "Продукты питания",
+"path": "produkty_pitaniya/specializirovannoe_pitanie-ASgBAgICAUS8qxXCrZID"
+},
+{
+"name": "Другое",
+"parent": "Продукты питания",
+"path": "produkty_pitaniya/drugoe-ASgBAgICAUS8qxXWrZID"
+},
+{
+"name": "Растения",
+"parent": "Для дома и дачи",
+"path": "rasteniya"
+},
+{
+"name": "Комнатные растения",
+"parent": "Растения",
+"path": "rasteniya/komnatnye_rasteniya-ASgBAgICAUT8lRW0zpED"
+},
+{
+"name": "Букеты",
+"parent": "Растения",
+"path": "rasteniya/bukety-ASgBAgICAUT8lRW2zpED"
+},
+{
+"name": "Садовые растения",
+"parent": "Растения",
+"path": "rasteniya/sadovye_rasteniya-ASgBAgICAUT8lRW4zpED"
+},
+{
+"name": "Семена, луковицы, клубни",
+"parent": "Растения",
+"path": "rasteniya/semena__lukovicy__klubni-ASgBAgICAUT8lRW6zpED"
+},
+{
+"name": "Товары для ухода за растениями",
+"parent": "Растения",
+"path": "rasteniya/tovary_dlya_ukhoda_za_rasteniyami-ASgBAgICAUT8lRW8zpED"
+},
+{
+"name": "Панно и искусственные растения",
+"parent": "Растения",
+"path": "rasteniya/panno_i_iskusstvennye_rasteniya-ASgBAgICAUT8lRW~zpED"
+},
+{
+"name": "Другое",
+"parent": "Растения",
+"path": "rasteniya/drugoe-ASgBAgICAUT8lRXAzpED"
+},
+{
+"name": "Посуда и товары для кухни",
+"parent": "Для дома и дачи",
+"path": "posuda_i_tovary_dlya_kuhni"
+},
+{
+"name": "Посуда",
+"parent": "Посуда и товары для кухни",
+"path": "posuda_i_tovary_dlya_kuhni/posuda-ASgBAgICAURmzAI"
+},
+{
+"name": "Товары для кухни",
+"parent": "Посуда и товары для кухни",
+"path": "posuda_i_tovary_dlya_kuhni/tovary_dlya_kuhni-ASgBAgICAURmzgI"
+},
+{
+"name": "Для автомобилей",
+"parent": "Запчасти",
+"path": "zapchasti_i_aksessuary/zapchasti/dlya_avtomobiley-ASgBAgICAkQKJKwJ~GM"
+},
+{
+"name": "Для мототехники",
+"parent": "Запчасти",
+"path": "zapchasti_i_aksessuary/zapchasti/dlya_mototehniki-ASgBAgICAkQKJKwJgmQ"
+},
+{
+"name": "Для грузовиков и спецтехники",
+"parent": "Запчасти",
+"path": "zapchasti_i_aksessuary/zapchasti/dlya_gruzovikov_i_spetstehniki-ASgBAgICAkQKJKwJjGQ"
+},
+{
+"name": "Для водного транспорта",
+"parent": "Запчасти",
+"path": "zapchasti_i_aksessuary/zapchasti/dlya_vodnogo_transporta-ASgBAgICAkQKJKwJlmQ"
+},
+{
+"name": "Шины",
+"parent": "Шины, диски и колёса",
+"path": "zapchasti_i_aksessuary/shiny_diski_i_kolesa/shiny-ASgBAgICAkQKJooLgJ0B"
+},
+{
+"name": "Шины для грузовиков и спецтехники",
+"parent": "Шины, диски и колёса",
+"path": "zapchasti_i_aksessuary/shiny_diski_i_kolesa/shiny_dlya_gruzovikov_i_spectekhniki-ASgBAgICAkQKJooLzuzbAg"
+},
+{
+"name": "Мотошины",
+"parent": "Шины, диски и колёса",
+"path": "zapchasti_i_aksessuary/shiny_diski_i_kolesa/motoshiny-ASgBAgICAkQKJooL_pwB"
+},
+{
+"name": "Диски",
+"parent": "Шины, диски и колёса",
+"path": "zapchasti_i_aksessuary/shiny_diski_i_kolesa/diski-ASgBAgICAkQKJooL_JwB"
+},
+{
+"name": "Колпаки",
+"parent": "Шины, диски и колёса",
+"path": "zapchasti_i_aksessuary/shiny_diski_i_kolesa/kolpaki-ASgBAgICAkQKJooL~JwB"
+},
+{
+"name": "Колёса",
+"parent": "Шины, диски и колёса",
+"path": "zapchasti_i_aksessuary/shiny_diski_i_kolesa/kolesa-ASgBAgICAkQKJooL~pwB"
+},
+{
+"name": "Аксессуары для автоакустики",
+"parent": "Аудио- и видеотехника",
+"path": "zapchasti_i_aksessuary/audio-_i_videotehnika/aksessuary_dlya_avtoakustiki-ASgBAgICAkQKKNKeE_7xjQM"
+},
+{
+"name": "Другое",
+"parent": "Аудио- и видеотехника",
+"path": "zapchasti_i_aksessuary/audio-_i_videotehnika-ASgBAgICAUQKKA"
+},
+{
+"name": "Магнитолы",
+"parent": "Аудио- и видеотехника",
+"path": "zapchasti_i_aksessuary/audio-_i_videotehnika/magnitoly-ASgBAgICAkQKKNKeE_LxjQM"
+},
+{
+"name": "Автоакустика",
+"parent": "Аудио- и видеотехника",
+"path": "zapchasti_i_aksessuary/audio-_i_videotehnika/avtoakustika-ASgBAgICAkQKKNKeE_TxjQM"
+},
+{
+"name": "Видеорегистраторы",
+"parent": "Аудио- и видеотехника",
+"path": "zapchasti_i_aksessuary/zapchasti_i_aksessuary/audio-_i_videotehnika/videoregistratory-ASgBAgICAkQKKNKeE_bxjQM"
+},
+{
+"name": "Усилители",
+"parent": "Аудио- и видеотехника",
+"path": "zapchasti_i_aksessuary/audio-_i_videotehnika/usiliteli-ASgBAgICAkQKKNKeE_jxjQM"
+},
+{
+"name": "Переходные рамки",
+"parent": "Аудио- и видеотехника",
+"path": "zapchasti_i_aksessuary/audio-_i_videotehnika/perekhodnye_ramki-ASgBAgICAkQKKNKeE_rxjQM"
+},
+{
+"name": "Короба и подиумы",
+"parent": "Аудио- и видеотехника",
+"path": "zapchasti_i_aksessuary/audio-_i_videotehnika/koroba_i_podiumy-ASgBAgICAkQKKNKeE_zxjQM"
+},
+{
+"name": "Для мото- и водного транспорта",
+"parent": "Аксессуары",
+"path": "zapchasti_i_aksessuary/dlya_moto__i_vodnogo_transporta-ASgBAgICAkQKnk2qlRPW5I0D"
+},
+{
+"name": "Щётки стеклоочистителя",
+"parent": "Аксессуары",
+"path": "zapchasti_i_aksessuary/zapchasti_i_aksessuary/aksessuary/shyotki_stekloochistitelya-ASgBAgICAkQKnk2qlRPI5I0D"
+},
+{
+"name": "Для салона",
+"parent": "Аксессуары",
+"path": "zapchasti_i_aksessuary/dlya_salona-ASgBAgICAkQKnk2qlRPK5I0D"
+},
+{
+"name": "Защита и декор",
+"parent": "Аксессуары",
+"path": "zapchasti_i_aksessuary/zashita_i_dekor-ASgBAgICAkQKnk2qlRPM5I0D"
+},
+{
+"name": "Набор автомобилиста",
+"parent": "Аксессуары",
+"path": "zapchasti_i_aksessuary/nabor_avtomobilista-ASgBAgICAkQKnk2qlRPO5I0D"
+},
+{
+"name": "Для колёс",
+"parent": "Аксессуары",
+"path": "zapchasti_i_aksessuary/dlya_kolyos-ASgBAgICAkQKnk2qlRPQ5I0D"
+},
+{
+"name": "Отопительное оборудование",
+"parent": "Аксессуары",
+"path": "zapchasti_i_aksessuary/otopitelnoe_oborudovanie-ASgBAgICAkQKnk2qlRPS5I0D"
+},
+{
+"name": "Уход",
+"parent": "Аксессуары",
+"path": "zapchasti_i_aksessuary/ukhod-ASgBAgICAkQKnk2qlRPU5I0D"
+},
+{
+"name": "Поперечные дуги и комплектующие",
+"parent": "Багажники и фаркопы",
+"path": "zapchasti_i_aksessuary/bagazhniki_i_farkopy/poperecnye_dugi_i_komplektuiushhie-ASgBAgICAkQKyE3u8BT0opAD"
+},
+{
+"name": "Рейлинги на крышу",
+"parent": "Багажники и фаркопы",
+"path": "zapchasti_i_aksessuary/bagazhniki_i_farkopy/reilingi_na_krysu-ASgBAgICAkQKyE3u8BT2opAD"
+},
+{
+"name": "Фаркопы и комплектующие",
+"parent": "Багажники и фаркопы",
+"path": "zapchasti_i_aksessuary/bagazhniki_i_farkopy/farkopy_i_komplektuiushhie-ASgBAgICAkQKyE3u8BT4opAD"
+},
+{
+"name": "Крепления для перевозки велосипедов и лыж",
+"parent": "Багажники и фаркопы",
+"path": "zapchasti_i_aksessuary/bagazhniki_i_farkopy/krepleniia_dlia_perevozki_velosipedov_i_lyz-ASgBAgICAkQKyE3u8BT6opAD"
+},
+{
+"name": "Экспедиционные багажники",
+"parent": "Багажники и фаркопы",
+"path": "zapchasti_i_aksessuary/bagazhniki_i_farkopy/ekspedicionnye_bagazniki-ASgBAgICAkQKyE3u8BT8opAD"
+},
+{
+"name": "Автобоксы",
+"parent": "Багажники и фаркопы",
+"path": "zapchasti_i_aksessuary/bagazhniki_i_farkopy/avtoboksy-ASgBAgICAkQKyE3u8BT~opAD"
+},
+{
+"name": "КУНГ",
+"parent": "Багажники и фаркопы",
+"path": "zapchasti_i_aksessuary/bagazhniki_i_farkopy/kung-ASgBAgICAkQKyE3u8BSM45QD"
+},
+{
+"name": "Бортовые",
+"parent": "Прицепы",
+"path": "zapchasti_i_aksessuary/pritsepy/bortovye_pricepy-ASgBAgICAkQKyk3ciBWciZED"
+},
+{
+"name": "Для водного транспорта",
+"parent": "Прицепы",
+"path": "zapchasti_i_aksessuary/pritsepy/pricepy_vodnyj_transport-ASgBAgICAkQKyk3ciBWeiZED"
+},
+{
+"name": "Эвакуаторы",
+"parent": "Прицепы",
+"path": "zapchasti_i_aksessuary/pritsepy/pricepy_evakuatory-ASgBAgICAkQKyk3ciBWgiZED"
+},
+{
+"name": "Запчасти и комплектующие",
+"parent": "Прицепы",
+"path": "zapchasti_i_aksessuary/pritsepy/zapchasti_dlya_pricepov-ASgBAgICAkQKyk3ciBWiiZED"
+},
+{
+"name": "Другое",
+"parent": "Прицепы",
+"path": "zapchasti_i_aksessuary/pritsepy-ASgBAgICAUQKyk0"
+},
+{
+"name": "Шлемы",
+"parent": "Экипировка",
+"path": "zapchasti_i_aksessuary/ekipirovka/shlemy-ASgBAgICAkQKoGT~xRemrpoD"
+},
+{
+"name": "Одежда",
+"parent": "Экипировка",
+"path": "zapchasti_i_aksessuary/ekipirovka/odezhda-ASgBAgICAkQKoGT~xReorpoD"
+},
+{
+"name": "Обувь",
+"parent": "Экипировка",
+"path": "zapchasti_i_aksessuary/ekipirovka/obuv-ASgBAgICAkQKoGT~xReqrpoD"
+},
+{
+"name": "Защита",
+"parent": "Экипировка",
+"path": "zapchasti_i_aksessuary/ekipirovka/zashita-ASgBAgICAkQKoGT~xResrpoD"
+},
+{
+"name": "Перчатки",
+"parent": "Экипировка",
+"path": "zapchasti_i_aksessuary/ekipirovka/perchatki-ASgBAgICAkQKoGT~xReurpoD"
+},
+{
+"name": "Очки, маски",
+"parent": "Экипировка",
+"path": "zapchasti_i_aksessuary/ekipirovka/ochki__maski-ASgBAgICAkQKoGT~xRewrpoD"
+},
+{
+"name": "Аксессуары",
+"parent": "Экипировка",
+"path": "zapchasti_i_aksessuary/ekipirovka/aksessuary-ASgBAgICAkQKoGT~xReyrpoD"
+},
+{
+"name": "Рюкзаки и сумки",
+"parent": "Экипировка",
+"path": "zapchasti_i_aksessuary/ekipirovka/ryukzaki_i_sumki-ASgBAgICAkQKoGT~xRe0rpoD"
+},
+{
+"name": "Моторные масла",
+"parent": "Масла и автохимия",
+"path": "zapchasti_i_aksessuary/zapchasti_i_aksessuary/masla_i_avtohimiya/motornye_masla-ASgBAgICAkQKnE3e0RLGlo0D"
+},
+{
+"name": "Трансмиссионные масла",
+"parent": "Масла и автохимия",
+"path": "zapchasti_i_aksessuary/zapchasti_i_aksessuary/masla_i_avtohimiya/transmissionnye_masla-ASgBAgICAkQKnE3e0RLIlo0D"
+},
+{
+"name": "Охлаждающие жидкости",
+"parent": "Масла и автохимия",
+"path": "zapchasti_i_aksessuary/zapchasti_i_aksessuary/masla_i_avtohimiya/ohlazhdayushie_zhidkosti-ASgBAgICAkQKnE3e0RLKlo0D"
+},
+{
+"name": "Тормозные жидкости",
+"parent": "Масла и автохимия",
+"path": "zapchasti_i_aksessuary/zapchasti_i_aksessuary/masla_i_avtohimiya/tormoznye_zhidkosti-ASgBAgICAkQKnE3e0RLMlo0D"
+},
+{
+"name": "Гидравлические жидкости",
+"parent": "Масла и автохимия",
+"path": "zapchasti_i_aksessuary/zapchasti_i_aksessuary/masla_i_avtohimiya/gidravlicheskie_zhidkosti-ASgBAgICAkQKnE3e0RLOlo0D"
+},
+{
+"name": "Жидкости для омывателя стекла",
+"parent": "Масла и автохимия",
+"path": "zapchasti_i_aksessuary/zapchasti_i_aksessuary/masla_i_avtohimiya/zhidkosti_dlya_omyvatelya_stekla-ASgBAgICAkQKnE3e0RLQlo0D"
+},
+{
+"name": "Промывочные жидкости, присадки и смазки",
+"parent": "Масла и автохимия",
+"path": "zapchasti_i_aksessuary/zapchasti_i_aksessuary/masla_i_avtohimiya/promyvochnye_zhidkosti_prisadki_i_smazki-ASgBAgICAkQKnE3e0RLSlo0D"
+},
+{
+"name": "Другие масла",
+"parent": "Масла и автохимия",
+"path": "zapchasti_i_aksessuary/zapchasti_i_aksessuary/masla_i_avtohimiya/drugie_masla-ASgBAgICAkQKnE3e0RLUlo0D"
+},
+{
+"name": "Автокосметика и аксессуары",
+"parent": "Масла и автохимия",
+"path": "zapchasti_i_aksessuary/zapchasti_i_aksessuary/masla_i_avtohimiya/avtokosmetika_i_aksessuary-ASgBAgICAkQKnE3e0RLWlo0D"
+},
+{
+"name": "Топливо",
+"parent": "Масла и автохимия",
+"path": "zapchasti_i_aksessuary/zapchasti_i_aksessuary/masla_i_avtohimiya/toplivo-ASgBAgICAkQKnE3e0RLYlo0D"
+},
+{
+"name": "Автосигнализации",
+"parent": "Противоугонные устройства",
+"path": "zapchasti_i_aksessuary/protivougonnye_ustroystva/avtosignalizatsii-ASgBAgICAkQKoE3kDN61AQ"
+},
+{
+"name": "Иммобилайзеры",
+"parent": "Противоугонные устройства",
+"path": "zapchasti_i_aksessuary/protivougonnye_ustroystva/immobilayzery-ASgBAgICAkQKoE3kDOC1AQ"
+},
+{
+"name": "Механические блокираторы",
+"parent": "Противоугонные устройства",
+"path": "zapchasti_i_aksessuary/protivougonnye_ustroystva/mehanicheskie_blokiratory-ASgBAgICAkQKoE3kDOK1AQ"
+},
+{
+"name": "Спутниковые системы",
+"parent": "Противоугонные устройства",
+"path": "zapchasti_i_aksessuary/protivougonnye_ustroystva/sputnikovye_sistemy-ASgBAgICAkQKoE3kDOS1AQ"
+},
+{
+"name": "Электроника",
+"parent": null,
+"path": "bytovaya_elektronika"
+},
+{
+"name": "Телефоны",
+"parent": "Электроника",
+"path": "telefony"
+},
+{
+"name": "Мобильные телефоны",
+"parent": "Телефоны",
+"path": "telefony/mobile-ASgBAgICAUSwwQ2I_Dc"
+},
+{
+"name": "Аксессуары",
+"parent": "Телефоны",
+"path": "telefony/aksessuari-ASgBAgICAUSwwQ2O_Dc"
+},
+{
+"name": "Сим-карты",
+"parent": "Телефоны",
+"path": "telefony/sim_karty-ASgBAgICAUSwwQ3kq5oD"
+},
+{
+"name": "Рации",
+"parent": "Телефоны",
+"path": "telefony/ratsiya-ASgBAgICAUSwwQ2K_Dc"
+},
+{
+"name": "Стационарные телефоны",
+"parent": "Телефоны",
+"path": "telefony/statsionarnye_telefoni-ASgBAgICAUSwwQ2M_Dc"
+},
+{
+"name": "Смарт-часы и фитнес-браслеты",
+"parent": "Телефоны",
+"path": "telefony/smart_chasy_i_fitnes_braslety-ASgBAgICAUSwwQ3IxpsD"
+},
+{
+"name": "Аудио и видео",
+"parent": "Электроника",
+"path": "audio_i_video"
+},
+{
+"name": "Телевизоры и проекторы",
+"parent": "Аудио и видео",
+"path": "audio_i_video/televizory_i_proektory-ASgBAgICAUSIArgJ"
+},
+{
+"name": "Наушники",
+"parent": "Аудио и видео",
+"path": "audio_i_video/naushniki-ASgBAgICAUSIAtRO"
+},
+{
+"name": "Акустика, колонки, сабвуферы",
+"parent": "Аудио и видео",
+"path": "audio_i_video/akustika_kolonki_sabvufery-ASgBAgICAUSIAsxO"
+},
+{
+"name": "Аксессуары",
+"parent": "Аудио и видео",
+"path": "audio_i_video/aksessuary-ASgBAgICAUSIArwJ"
+},
+{
+"name": "Музыкальные центры, магнитолы",
+"parent": "Аудио и видео",
+"path": "audio_i_video/muzykalnye_tsentry_magnitoly-ASgBAgICAUSIAtJO"
+},
+{
+"name": "Усилители и ресиверы",
+"parent": "Аудио и видео",
+"path": "audio_i_video/usiliteli_i_resivery-ASgBAgICAUSIArYJ"
+},
+{
+"name": "Видеокамеры",
+"parent": "Аудио и видео",
+"path": "audio_i_video/videokamery-ASgBAgICAUSIAroJ"
+},
+{
+"name": "Видео, DVD и Blu-ray плееры",
+"parent": "Аудио и видео",
+"path": "audio_i_video/video_dvd_i_blu-ray_pleery-ASgBAgICAUSIArAJ"
+},
+{
+"name": "Кабели и адаптеры",
+"parent": "Аудио и видео",
+"path": "audio_i_video/kabeli_i_adaptery-ASgBAgICAUSIAs5O"
+},
+{
+"name": "Музыка и фильмы",
+"parent": "Аудио и видео",
+"path": "audio_i_video/muzyka_i_filmy-ASgBAgICAUSIArQJ"
+},
+{
+"name": "Микрофоны, радиосистемы и аксессуары",
+"parent": "Аудио и видео",
+"path": "audio_i_video/mikrofony-radiosistemy-i-aksessuary-ASgBAgICAUSIAtBO"
+},
+{
+"name": "MP3-плееры",
+"parent": "Аудио и видео",
+"path": "audio_i_video/mp3-pleery-ASgBAgICAUSIArIJ"
+},
+{
+"name": "Товары для компьютера",
+"parent": "Электроника",
+"path": "tovary_dlya_kompyutera"
+},
+{
+"name": "Комплектующие",
+"parent": "Товары для компьютера",
+"path": "tovary_dlya_kompyutera/komplektuyuschie-ASgBAgICAUTGB~pm"
+},
+{
+"name": "Мониторы и запчасти",
+"parent": "Товары для компьютера",
+"path": "tovary_dlya_kompyutera/monitory_i_zapshasty-ASgBAgICAUTGB4Bo"
+},
+{
+"name": "Сетевое оборудование",
+"parent": "Товары для компьютера",
+"path": "tovary_dlya_kompyutera/setevoe_oborudovanie-ASgBAgICAUTGB75O"
+},
+{
+"name": "Клавиатуры и мыши",
+"parent": "Товары для компьютера",
+"path": "tovary_dlya_kompyutera/klaviatury_i_myshi-ASgBAgICAUTGB7xO"
+},
+{
+"name": "Аксессуары",
+"parent": "Товары для компьютера",
+"path": "tovary_dlya_kompyutera/aksessuary-ASgBAgICAUTGB5Ro"
+},
+{
+"name": "Джойстики и рули",
+"parent": "Товары для компьютера",
+"path": "tovary_dlya_kompyutera/dzhoystiki_i_ruli-ASgBAgICAUTGB7ZO"
+},
+{
+"name": "Флешки и карты памяти",
+"parent": "Товары для компьютера",
+"path": "tovary_dlya_kompyutera/fleshki_i_karty_pamyati-ASgBAgICAUTGB8ZO"
+},
+{
+"name": "Акустика",
+"parent": "Товары для компьютера",
+"path": "tovary_dlya_kompyutera/akustika-ASgBAgICAUTGB7RO"
+},
+{
+"name": "Переносные жёсткие диски",
+"parent": "Товары для компьютера",
+"path": "tovary_dlya_kompyutera/perenosnye_zhestkie_diski-ASgBAgICAUTGB8JO"
+},
+{
+"name": "Веб-камеры",
+"parent": "Товары для компьютера",
+"path": "tovary_dlya_kompyutera/veb-kamery-ASgBAgICAUTGB7hO"
+},
+{
+"name": "ТВ-тюнеры",
+"parent": "Товары для компьютера",
+"path": "tovary_dlya_kompyutera/tv-tyunery-ASgBAgICAUTGB8RO"
+},
+{
+"name": "Игры, приставки и программы",
+"parent": "Электроника",
+"path": "igry_pristavki_i_programmy"
+},
+{
+"name": "Игровые приставки и аксессуары",
+"parent": "Игры, приставки и программы",
+"path": "igry_pristavki_i_programmy/igrovye_pristavki_i_aksessuary-ASgBAgICAUSSAsoJ"
+},
+{
+"name": "Игры для приставок",
+"parent": "Игры, приставки и программы",
+"path": "igry_pristavki_i_programmy/igry_dlya_pristavok-ASgBAgICAUSSAsYJ"
+},
+{
+"name": "Программы",
+"parent": "Игры, приставки и программы",
+"path": "igry_pristavki_i_programmy/programmy-ASgBAgICAUSSAs4J"
+},
+{
+"name": "Компьютерные игры",
+"parent": "Игры, приставки и программы",
+"path": "igry_pristavki_i_programmy/kompyuternye_igry-ASgBAgICAUSSAsgJ"
+},
+{
+"name": "Ноутбуки",
+"parent": "Электроника",
+"path": "noutbuki"
+},
+{
+"name": "Настольные компьютеры",
+"parent": "Электроника",
+"path": "nastolnye_kompyutery"
+},
+{
+"name": "Системные блоки",
+"parent": "Настольные компьютеры",
+"path": "nastolnye_kompyutery/sistemnye_bloki-ASgBAgICAUS02xKMqY0D"
+},
+{
+"name": "Моноблоки",
+"parent": "Настольные компьютеры",
+"path": "nastolnye_kompyutery/monobloki-ASgBAgICAUS02xKOqY0D"
+},
+{
+"name": "Другое",
+"parent": "Настольные компьютеры",
+"path": "nastolnye_kompyutery"
+},
+{
+"name": "Фототехника",
+"parent": "Электроника",
+"path": "fototehnika"
+},
+{
+"name": "Оборудование и аксессуары",
+"parent": "Фототехника",
+"path": "fototehnika/oborudovanie_i_aksessuary-ASgBAgICAUS~A64X"
+},
+{
+"name": "Объективы",
+"parent": "Фототехника",
+"path": "fototehnika/obektivy-ASgBAgICAUS~A6YX"
+},
+{
+"name": "Компактные фотоаппараты",
+"parent": "Фототехника",
+"path": "fototehnika/kompaktnye_fotoapparaty-ASgBAgICAUS~A7IX"
+},
+{
+"name": "Плёночные фотоаппараты",
+"parent": "Фототехника",
+"path": "fototehnika/plenochnye_fotoapparaty-ASgBAgICAUS~A6gX"
+},
+{
+"name": "Зеркальные фотоаппараты",
+"parent": "Фототехника",
+"path": "fototehnika/zerkalnye_fotoapparaty-ASgBAgICAUS~A7AX"
+},
+{
+"name": "Бинокли и телескопы",
+"parent": "Фототехника",
+"path": "fototehnika/binokli_i_teleskopy-ASgBAgICAUS~A6IX"
+},
+{
+"name": "Планшеты и электронные книги",
+"parent": "Электроника",
+"path": "planshety_i_elektronnye_knigi"
+},
+{
+"name": "Планшеты",
+"parent": "Планшеты и электронные книги",
+"path": "planshety_i_elektronnye_knigi/planshety-ASgBAgICAUSYAoZO"
+},
+{
+"name": "Аксессуары",
+"parent": "Планшеты и электронные книги",
+"path": "planshety_i_elektronnye_knigi/aksessuary-ASgBAgICAUSYAopO"
+},
+{
+"name": "Электронные книги",
+"parent": "Планшеты и электронные книги",
+"path": "planshety_i_elektronnye_knigi/elektronnye_knigi-ASgBAgICAUSYAohO"
+},
+{
+"name": "Оргтехника и расходники",
+"parent": "Электроника",
+"path": "orgtehnika_i_rashodniki"
+},
+{
+"name": "МФУ, копиры и сканеры",
+"parent": "Оргтехника и расходники",
+"path": "orgtehnika_i_rashodniki/mfu_kopiry_i_skanery-ASgBAgICAUSoAvpO"
+},
+{
+"name": "Принтеры",
+"parent": "Оргтехника и расходники",
+"path": "orgtehnika_i_rashodniki/printery-ASgBAgICAUSoAoQK"
+},
+{
+"name": "Канцелярия",
+"parent": "Оргтехника и расходники",
+"path": "orgtehnika_i_rashodniki/kantselyariya-ASgBAgICAUSoAogK"
+},
+{
+"name": "ИБП, сетевые фильтры",
+"parent": "Оргтехника и расходники",
+"path": "orgtehnika_i_rashodniki/ibp_setevye_filtry-ASgBAgICAUSoAv5O"
+},
+{
+"name": "Телефония",
+"parent": "Оргтехника и расходники",
+"path": "orgtehnika_i_rashodniki/telefoniya-ASgBAgICAUSoAvxO"
+},
+{
+"name": "Уничтожители бумаг",
+"parent": "Оргтехника и расходники",
+"path": "orgtehnika_i_rashodniki/unichtozhiteli_bumag-ASgBAgICAUSoAoBP"
+},
+{
+"name": "Расходные материалы",
+"parent": "Оргтехника и расходники",
+"path": "orgtehnika_i_rashodniki/rashodnye_materialy-ASgBAgICAUSoAoYK"
+},
+{
+"name": "Хобби и отдых",
+"parent": null,
+"path": "hobbi_i_otdyh"
+},
+{
+"name": "Билеты и путешествия",
+"parent": "Хобби и отдых",
+"path": "bilety_i_puteshestviya"
+},
+{
+"name": "Карты, купоны",
+"parent": "Билеты и путешествия",
+"path": "bilety_i_puteshestviya/karty_kupony-ASgBAgICAUS0AqKKAQ"
+},
+{
+"name": "Концерты",
+"parent": "Билеты и путешествия",
+"path": "bilety_i_puteshestviya/kontserty-ASgBAgICAUS0ApYK"
+},
+{
+"name": "Путешествия",
+"parent": "Билеты и путешествия",
+"path": "bilety_i_puteshestviya/puteshestviya-ASgBAgICAUS0ApgK"
+},
+{
+"name": "Спорт",
+"parent": "Билеты и путешествия",
+"path": "bilety_i_puteshestviya/sport-ASgBAgICAUS0ApoK"
+},
+{
+"name": "Театр, опера, балет",
+"parent": "Билеты и путешествия",
+"path": "bilety_i_puteshestviya/teatr_opera_balet-ASgBAgICAUS0ApwK"
+},
+{
+"name": "Цирк, кино",
+"parent": "Билеты и путешествия",
+"path": "bilety_i_puteshestviya/tsirk_kino-ASgBAgICAUS0AqSKAQ"
+},
+{
+"name": "Шоу, мюзикл",
+"parent": "Билеты и путешествия",
+"path": "bilety_i_puteshestviya/shou_myuzikl-ASgBAgICAUS0AqCKAQ"
+},
+{
+"name": "Велосипеды",
+"parent": "Хобби и отдых",
+"path": "velosipedy"
+},
+{
+"name": "ВМХ",
+"parent": "Велосипеды",
+"path": "velosipedy/bmx-ASgBAgICAUS4AqYK"
+},
+{
+"name": "Городские",
+"parent": "Велосипеды",
+"path": "velosipedy/gorodskie-ASgBAgICAUS4AuLTkAM"
+},
+{
+"name": "Шоссейные",
+"parent": "Велосипеды",
+"path": "velosipedy/shosseinye-ASgBAgICAUS4Aq4K"
+},
+{
+"name": "Детские",
+"parent": "Велосипеды",
+"path": "velosipedy/detskie-ASgBAgICAUS4AqoK"
+},
+{
+"name": "Горные",
+"parent": "Велосипеды",
+"path": "velosipedy/gornye-ASgBAgICAUS4AqgK"
+},
+{
+"name": "Электровелосипеды",
+"parent": "Велосипеды",
+"path": "velosipedy/elektrovelosipedy-ASgBAgICAUS4Ap72lwM"
+},
+{
+"name": "Запчасти и аксессуары",
+"parent": "Велосипеды",
+"path": "velosipedy/zapchasti_i_aksessuary-ASgBAgICAUS4AqQK"
+},
+{
+"name": "Книги и журналы",
+"parent": "Хобби и отдых",
+"path": "knigi_i_zhurnaly"
+},
+{
+"name": "Журналы, газеты, брошюры",
+"parent": "Книги и журналы",
+"path": "knigi_i_zhurnaly/zhurnaly_gazety_broshyury-ASgBAgICAUTOAugK"
+},
+{
+"name": "Книги",
+"parent": "Книги и журналы",
+"path": "knigi_i_zhurnaly/knigi-ASgBAgICAUTOAuoK"
+},
+{
+"name": "Учебная литература",
+"parent": "Книги и журналы",
+"path": "knigi_i_zhurnaly/uchebnaya_literatura-ASgBAgICAUTOApRM"
+},
+{
+"name": "Коллекционирование",
+"parent": "Хобби и отдых",
+"path": "kollektsionirovanie"
+},
+{
+"name": "Банкноты",
+"parent": "Коллекционирование",
+"path": "kollektsionirovanie/banknoty-ASgBAgICAUQcgAE"
+},
+{
+"name": "Билеты",
+"parent": "Коллекционирование",
+"path": "kollektsionirovanie/bilety-ASgBAgICAUQcggE"
+},
+{
+"name": "Вещи знаменитостей, автографы",
+"parent": "Коллекционирование",
+"path": "kollektsionirovanie/veschi_znamenitostey/avtografy-ASgBAgICAUQchAE"
+},
+{
+"name": "Военные вещи",
+"parent": "Коллекционирование",
+"path": "kollektsionirovanie/voennye_veschi-ASgBAgICAUQchgE"
+},
+{
+"name": "Грампластинки",
+"parent": "Коллекционирование",
+"path": "kollektsionirovanie/gramplastinki-ASgBAgICAUQcjkw"
+},
+{
+"name": "Документы",
+"parent": "Коллекционирование",
+"path": "kollektsionirovanie/dokumenty-ASgBAgICAUQciAE"
+},
+{
+"name": "Жетоны, медали, значки",
+"parent": "Коллекционирование",
+"path": "kollektsionirovanie/zhetony_medali_znachki-ASgBAgICAUQcigE"
+},
+{
+"name": "Игры",
+"parent": "Коллекционирование",
+"path": "kollektsionirovanie/igry-ASgBAgICAUQcjAE"
+},
+{
+"name": "Календари",
+"parent": "Коллекционирование",
+"path": "kollektsionirovanie/kalendari-ASgBAgICAUQcjgE"
+},
+{
+"name": "Картины",
+"parent": "Коллекционирование",
+"path": "kollektsionirovanie/kartiny-ASgBAgICAUQcoBc"
+},
+{
+"name": "Киндер-сюрприз",
+"parent": "Коллекционирование",
+"path": "kollektsionirovanie/kinder-syurpriz-ASgBAgICAUQckAE"
+},
+{
+"name": "Конверты и почтовые карточки",
+"parent": "Коллекционирование",
+"path": "kollektsionirovanie/konverty_i_pochtovye_kartochki-ASgBAgICAUQclAE"
+},
+{
+"name": "Марки",
+"parent": "Коллекционирование",
+"path": "kollektsionirovanie/marki-ASgBAgICAUQclgE"
+},
+{
+"name": "Модели, фигурки, куклы",
+"parent": "Коллекционирование",
+"path": "kollektsionirovanie/modeli_figurki_kukly-ASgBAgICAUQcmAE"
+},
+{
+"name": "Монеты",
+"parent": "Коллекционирование",
+"path": "kollektsionirovanie/monety-ASgBAgICAUQcmgE"
+},
+{
+"name": "Открытки",
+"parent": "Коллекционирование",
+"path": "kollektsionirovanie/otkrytki-ASgBAgICAUQcnAE"
+},
+{
+"name": "Пепельницы, зажигалки",
+"parent": "Коллекционирование",
+"path": "kollektsionirovanie/pepelnicy_zazhigalki-ASgBAgICAUQcoAE"
+},
+{
+"name": "Пластиковые карточки",
+"parent": "Коллекционирование",
+"path": "kollektsionirovanie/plastikovye_kartochki-ASgBAgICAUQcngE"
+},
+{
+"name": "Спортивные карточки",
+"parent": "Коллекционирование",
+"path": "kollektsionirovanie/sportivnye_kartochki-ASgBAgICAUQcogE"
+},
+{
+"name": "Фотографии, письма",
+"parent": "Коллекционирование",
+"path": "kollektsionirovanie/fotografii_pisma-ASgBAgICAUQcpAE"
+},
+{
+"name": "Этикетки, бутылки, пробки",
+"parent": "Коллекционирование",
+"path": "kollektsionirovanie/etiketki_butylki_probki-ASgBAgICAUQcpgE"
+},
+{
+"name": "Другое",
+"parent": "Коллекционирование",
+"path": "kollektsionirovanie/drugoe-ASgBAgICAUQckEw"
+},
+{
+"name": "Музыкальные инструменты",
+"parent": "Хобби и отдых",
+"path": "muzykalnye_instrumenty"
+},
+{
+"name": "Аккордеоны, гармони, баяны",
+"parent": "Музыкальные инструменты",
+"path": "muzykalnye_instrumenty/akkordeony_garmoni_bayany-ASgBAgICAUTEAsQK"
+},
+{
+"name": "Гитары и другие струнные",
+"parent": "Музыкальные инструменты",
+"path": "muzykalnye_instrumenty/gitary_i_strunnye-ASgBAgICAUTEAsYK"
+},
+{
+"name": "Духовые",
+"parent": "Музыкальные инструменты",
+"path": "muzykalnye_instrumenty/duhovye-ASgBAgICAUTEAsoK"
+},
+{
+"name": "Клавишные и синтезаторы",
+"parent": "Музыкальные инструменты",
+"path": "muzykalnye_instrumenty/klavishnye_i_sintezatory-ASgBAgICAUTEAswK"
+},
+{
+"name": "Скрипки и другие смычковые",
+"parent": "Музыкальные инструменты",
+"path": "muzykalnye_instrumenty/skripki_i_smychkovye-ASgBAgICAUTEAvRO"
+},
+{
+"name": "Ударные",
+"parent": "Музыкальные инструменты",
+"path": "muzykalnye_instrumenty/udarnye-ASgBAgICAUTEAs4K"
+},
+{
+"name": "Для студии и концертов",
+"parent": "Музыкальные инструменты",
+"path": "muzykalnye_instrumenty/dlya_studii_i_kontsertov-ASgBAgICAUTEAsgK"
+},
+{
+"name": "Аксессуары",
+"parent": "Музыкальные инструменты",
+"path": "muzykalnye_instrumenty/aksessuary-ASgBAgICAUTEAtAK"
+},
+{
+"name": "Охота и рыбалка",
+"parent": "Хобби и отдых",
+"path": "ohota_i_rybalka"
+},
+{
+"name": "Ножи, мультитулы, топоры",
+"parent": "Охота и рыбалка",
+"path": "ohota_i_rybalka/nozhi_multituly_topory-ASgBAgICAUSY5hTiiZAD"
+},
+{
+"name": "Охота",
+"parent": "Охота и рыбалка",
+"path": "ohota_i_rybalka/ohota-ASgBAgICAUSY5hTkiZAD"
+},
+{
+"name": "Рыбалка",
+"parent": "Охота и рыбалка",
+"path": "ohota_i_rybalka/ohota_i_ribalka/ribalka-ASgBAgICAUSY5hTmiZAD"
+},
+{
+"name": "Костюмы для охоты и рыбалки",
+"parent": "Охота и рыбалка",
+"path": "ohota_i_rybalka/ohota_i_ribalka/kostumy_dlya_ohoty_i_ribalki-ASgBAgICAUSY5hToiZAD"
+},
+{
+"name": "Спорт и отдых",
+"parent": "Хобби и отдых",
+"path": "sport_i_otdyh"
+},
+{
+"name": "Фитнес и тренажёры",
+"parent": "Спорт и отдых",
+"path": "sport_i_otdyh/fitnes_i_trenazhery-ASgBAgICAUTKAuAK"
+},
+{
+"name": "Зимний спорт",
+"parent": "Спорт и отдых",
+"path": "sport_i_otdyh/zimniy_sport-ASgBAgICAUTKAtoK"
+},
+{
+"name": "Туризм и отдых на природе",
+"parent": "Спорт и отдых",
+"path": "sport_i_otdyh/turizm_i_otdyh_na_prirode-ASgBAgICAUTKAt4K"
+},
+{
+"name": "Единоборства",
+"parent": "Спорт и отдых",
+"path": "sport_i_otdyh/edinoborstva-ASgBAgICAUTKAoRP"
+},
+{
+"name": "Настольные и карточные игры",
+"parent": "Спорт и отдых",
+"path": "sport_i_otdyh/nastolnye_i_kartochnye_igry-ASgBAgICAUTKAoZP"
+},
+{
+"name": "Дайвинг и водный спорт",
+"parent": "Спорт и отдых",
+"path": "sport_i_otdyh/dayving_i_vodnyy_sport-ASgBAgICAUTKAtgK"
+},
+{
+"name": "Игры с мячом",
+"parent": "Спорт и отдых",
+"path": "sport_i_otdyh/igry_s_myachom-ASgBAgICAUTKAtwK"
+},
+{
+"name": "Ролики и скейтбординг",
+"parent": "Спорт и отдых",
+"path": "sport_i_otdyh/roliki_i_skeytbording-ASgBAgICAUTKAopP"
+},
+{
+"name": "Теннис и бадминтон",
+"parent": "Спорт и отдых",
+"path": "sport_i_otdyh/tennis_i_badminton-ASgBAgICAUTKAoxP"
+},
+{
+"name": "Спортивное питание",
+"parent": "Спорт и отдых",
+"path": "sport_i_otdyh/sportivnoe_pitanie-ASgBAgICAUTKAvK9Ag"
+},
+{
+"name": "Стрелковый спорт",
+"parent": "Спорт и отдых",
+"path": "sport_i_otdyh/strelkovyi_sport-ASgBAgICAUTKAohP"
+},
+{
+"name": "Бильярд и боулинг",
+"parent": "Спорт и отдых",
+"path": "sport_i_otdyh/bilyard_i_bouling-ASgBAgICAUTKAoJP"
+},
+{
+"name": "Товары для отдыха",
+"parent": "Спорт и отдых",
+"path": "sport_i_otdyh/tovary_dlya_otdykha-ASgBAgICAUTKAuIK"
+},
+{
+"name": "Гимнастика и танцы",
+"parent": "Спорт и отдых",
+"path": "sport_i_otdyh/gimnastika_i_tancy-ASgBAgICAUTKAvC5lwM"
+},
+{
+"name": "Конный спорт",
+"parent": "Спорт и отдых",
+"path": "sport_i_otdyh/konnyi_sport-ASgBAgICAUTKAvK5lwM"
+},
+{
+"name": "Самокаты и гироскутеры",
+"parent": "Спорт и отдых",
+"path": "sport_i_otdyh/samokaty_i_giroskutery-ASgBAgICAUTKAvS5lwM"
+},
+{
+"name": "Бег",
+"parent": "Спорт и отдых",
+"path": "sport_i_otdyh/beg-ASgBAgICAUTKAva5lwM"
+},
+{
+"name": "Награды и кубки",
+"parent": "Спорт и отдых",
+"path": "sport_i_otdyh/nagrady_i_kubki-ASgBAgICAUTKAvi5lwM"
+},
+{
+"name": "Животные",
+"parent": null,
+"path": "zhivotnye"
+},
+{
+"name": "Собаки",
+"parent": "Животные",
+"path": "sobaki"
+},
+{
+"name": "Кошки",
+"parent": "Животные",
+"path": "koshki"
+},
+{
+"name": "Птицы",
+"parent": "Животные",
+"path": "ptitsy"
+},
+{
+"name": "Аквариум",
+"parent": "Животные",
+"path": "akvarium"
+},
+{
+"name": "Другие животные",
+"parent": "Животные",
+"path": "drugie_zhivotnye"
+},
+{
+"name": "Амфибии",
+"parent": "Другие животные",
+"path": "drugie_zhivotnye/amfibii-ASgBAgICAUSyA8oV"
+},
+{
+"name": "Грызуны",
+"parent": "Другие животные",
+"path": "drugie_zhivotnye/gryzuny-ASgBAgICAUSyA8wV"
+},
+{
+"name": "Кролики",
+"parent": "Другие животные",
+"path": "drugie_zhivotnye/kroliki-ASgBAgICAUSyA7BL"
+},
+{
+"name": "Лошади",
+"parent": "Другие животные",
+"path": "drugie_zhivotnye/loshadi-ASgBAgICAUSyA84V"
+},
+{
+"name": "Рептилии",
+"parent": "Другие животные",
+"path": "drugie_zhivotnye/reptilii-ASgBAgICAUSyA9AV"
+},
+{
+"name": "Сельскохозяйственные животные",
+"parent": "Другие животные",
+"path": "drugie_zhivotnye/selskohozyaystvennye-zhivotnye-ASgBAgICAUSyA7JL"
+},
+{
+"name": "Хорьки",
+"parent": "Другие животные",
+"path": "drugie_zhivotnye/horki-ASgBAgICAUSyA65L"
+},
+{
+"name": "Другое",
+"parent": "Другие животные",
+"path": "drugie_zhivotnye/zhivotnie/drugoe-ASgBAgICAUSyA9IV"
+},
+{
+"name": "Товары для животных",
+"parent": "Животные",
+"path": "tovary_dlya_zhivotnyh"
+},
+{
+"name": "Собаки и кошки",
+"parent": "Товары для животных",
+"path": "tovary_dlya_zhivotnyh/sobaki_i_koshki-ASgBAgICAUS8nxfckZkD"
+},
+{
+"name": "Грызуны",
+"parent": "Товары для животных",
+"path": "tovary_dlya_zhivotnyh/gryzuny-ASgBAgICAUS8nxfekZkD"
+},
+{
+"name": "Птицы",
+"parent": "Товары для животных",
+"path": "tovary_dlya_zhivotnyh/pticy-ASgBAgICAUS8nxfgkZkD"
+},
+{
+"name": "Рыбы и рептилии",
+"parent": "Товары для животных",
+"path": "tovary_dlya_zhivotnyh/ryby_i_reptilii-ASgBAgICAUS8nxfikZkD"
+},
+{
+"name": "Фермерское хозяйство",
+"parent": "Товары для животных",
+"path": "tovary_dlya_zhivotnyh/fermerskoe_khozyaistvo-ASgBAgICAUS8nxfkkZkD"
+},
+{
+"name": "Потерянные и найденные животные",
+"parent": "Животные",
+"path": "poteryannye_i_naidennye_zhivotnye"
+},
+{
+"name": "Потерянные и найденные кошки",
+"parent": "Потерянные и найденные животные",
+"path": "poteryannye_i_naidennye_zhivotnye/poteriannye_i_naidennye_koski-ASgBAgICAUSm~ReQnZsD"
+},
+{
+"name": "Потерянные и найденные собаки",
+"parent": "Потерянные и найденные животные",
+"path": "poteryannye_i_naidennye_zhivotnye/poteriannye_i_naidennye_sobaki-ASgBAgICAUSm~ReSnZsD"
+},
+{
+"name": "Бизнес и оборудование",
+"parent": null,
+"path": "dlya_biznesa"
+},
+{
+"name": "Оборудование для бизнеса",
+"parent": "Бизнес и оборудование",
+"path": "oborudovanie_dlya_biznesa"
+},
+{
+"name": "Промышленное",
+"parent": "Оборудование для бизнеса",
+"path": "oborudovanie_dlya_biznesa/promyshlennoe-ASgBAgICAUTqAv5P"
+},
+{
+"name": "Логистика и склад",
+"parent": "Оборудование для бизнеса",
+"path": "oborudovanie_dlya_biznesa/logistika_i_sklad-ASgBAgICAUTqAqC8iwM"
+},
+{
+"name": "Торговое",
+"parent": "Оборудование для бизнеса",
+"path": "oborudovanie_dlya_biznesa/torgovoe-ASgBAgICAUTqAtifjgM"
+},
+{
+"name": "Пищевое",
+"parent": "Оборудование для бизнеса",
+"path": "oborudovanie_dlya_biznesa/pishchevoe-ASgBAgICAUTqAvpP"
+},
+{
+"name": "Для салона красоты",
+"parent": "Оборудование для бизнеса",
+"path": "oborudovanie_dlya_biznesa/dlya_salona_krasoty-ASgBAgICAUTqAvxP"
+},
+{
+"name": "Для автобизнеса",
+"parent": "Оборудование для бизнеса",
+"path": "oborudovanie_dlya_biznesa/dlya_avtobiznesa-ASgBAgICAUTqAqK8iwM"
+},
+{
+"name": "Майнинг",
+"parent": "Оборудование для бизнеса",
+"path": "oborudovanie_dlya_biznesa/majning_kriptovaljut-ASgBAgICAUTqAtSJ~wI"
+},
+{
+"name": "Лабораторное",
+"parent": "Оборудование для бизнеса",
+"path": "oborudovanie_dlya_biznesa/laboratornoe-ASgBAgICAUTqAtqJ~wI"
+},
+{
+"name": "Медицинское",
+"parent": "Оборудование для бизнеса",
+"path": "oborudovanie_dlya_biznesa/meditsinskoe-ASgBAgICAUTqAtyJ~wI"
+},
+{
+"name": "Телекоммуникационное",
+"parent": "Оборудование для бизнеса",
+"path": "oborudovanie_dlya_biznesa/telekommunikatsionnoe-ASgBAgICAUTqAt6J~wI"
+},
+{
+"name": "Другое",
+"parent": "Оборудование для бизнеса",
+"path": "oborudovanie_dlya_biznesa/drugoe-ASgBAgICAUTqArYM"
+},
+{
+"name": "Франшизы",
+"parent": "Бизнес и оборудование",
+"path": "gotoviy_biznes/franshizy-ASgBAgICAUToDMj1jgM"
+},
+{
+"name": "Автобизнес",
+"parent": "Франшизы",
+"path": "gotoviy_biznes/franshizy/avtobiznes-ASgBAgICAkToDMj1jgO2rRSslY8D"
+},
+{
+"name": "Арендный бизнес",
+"parent": "Франшизы",
+"path": "gotoviy_biznes/franshizy/arendnyi_biznes-ASgBAgICAkToDMj1jgO2rRSulY8D"
+},
+{
+"name": "Красота и здоровье",
+"parent": "Франшизы",
+"path": "gotoviy_biznes/franshizy/krasota_i_zdorove-ASgBAgICAkToDMj1jgO2rRSwlY8D"
+},
+{
+"name": "Общественное питание",
+"parent": "Франшизы",
+"path": "gotoviy_biznes/franshizy/obshhestvennoe_pitanie-ASgBAgICAkToDMj1jgO2rRSylY8D"
+},
+{
+"name": "Производство",
+"parent": "Франшизы",
+"path": "gotoviy_biznes/franshizy/proizvodstvo-ASgBAgICAkToDMj1jgO2rRS0lY8D"
+},
+{
+"name": "Пункты выдачи заказов",
+"parent": "Франшизы",
+"path": "gotoviy_biznes/franshizy/punkty_vydaci_zakazov-ASgBAgICAkToDMj1jgO2rRS2lY8D"
+},
+{
+"name": "Сельское хозяйство",
+"parent": "Франшизы",
+"path": "gotoviy_biznes/franshizy/selskoe_xoziaistvo-ASgBAgICAkToDMj1jgO2rRS4lY8D"
+},
+{
+"name": "Строительство",
+"parent": "Франшизы",
+"path": "gotoviy_biznes/franshizy/stroitelstvo-ASgBAgICAkToDMj1jgO2rRS6lY8D"
+},
+{
+"name": "Сфера развлечений",
+"parent": "Франшизы",
+"path": "gotoviy_biznes/franshizy/sfera_razvlecenii-ASgBAgICAkToDMj1jgO2rRS8lY8D"
+},
+{
+"name": "Сфера услуг",
+"parent": "Франшизы",
+"path": "gotoviy_biznes/franshizy/sfera_uslug-ASgBAgICAkToDMj1jgO2rRS~lY8D"
+},
+{
+"name": "Торговля",
+"parent": "Франшизы",
+"path": "gotoviy_biznes/franshizy/torgovlia-ASgBAgICAkToDMj1jgO2rRTAlY8D"
+},
+{
+"name": "Туризм",
+"parent": "Франшизы",
+"path": "gotoviy_biznes/franshizy/turizm-ASgBAgICAkToDMj1jgO2rRTClY8D"
+},
+{
+"name": "IT бизнес",
+"parent": "Франшизы",
+"path": "gotoviy_biznes/franshizy/it_biznes-ASgBAgICAkToDMj1jgO2rRTElY8D"
+},
+{
+"name": "Готовый бизнес",
+"parent": "Бизнес и оборудование",
+"path": "gotoviy_biznes"
+},
+{
+"name": "Автобизнес",
+"parent": "Готовый бизнес",
+"path": "gotoviy_biznes/avtomobilnyi_biznes-ASgBAgICAUToDMy88QI"
+},
+{
+"name": "Арендный бизнес",
+"parent": "Готовый бизнес",
+"path": "gotoviy_biznes/arendnyi_biznes-ASgBAgICAUToDOCejwM"
+},
+{
+"name": "Красота и здоровье",
+"parent": "Готовый бизнес",
+"path": "gotoviy_biznes/krasota_i_zdorove-ASgBAgICAUToDM688QI"
+},
+{
+"name": "Общественное питание",
+"parent": "Готовый бизнес",
+"path": "gotoviy_biznes/obschestvennoe_pitanie-ASgBAgICAUToDKC2AQ"
+},
+{
+"name": "Производство",
+"parent": "Готовый бизнес",
+"path": "gotoviy_biznes/proizvodstvo-ASgBAgICAUToDKK2AQ"
+},
+{
+"name": "Пункты выдачи заказов",
+"parent": "Готовый бизнес",
+"path": "gotoviy_biznes/punkty_vydaci_zakazov-ASgBAgICAUToDOKejwM"
+},
+{
+"name": "Сельское хозяйство",
+"parent": "Готовый бизнес",
+"path": "gotoviy_biznes/selskoe_hozyaystvo-ASgBAgICAUToDKa2AQ"
+},
+{
+"name": "Строительство",
+"parent": "Готовый бизнес",
+"path": "gotoviy_biznes/stroitelstvo-ASgBAgICAUToDKi2AQ"
+},
+{
+"name": "Сфера развлечений",
+"parent": "Готовый бизнес",
+"path": "gotoviy_biznes/sfera_razvlechenii-ASgBAgICAUToDKS2AQ"
+},
+{
+"name": "Сфера услуг",
+"parent": "Готовый бизнес",
+"path": "gotoviy_biznes/sfera_uslug-ASgBAgICAUToDKq2AQ"
+},
+{
+"name": "Торговля",
+"parent": "Готовый бизнес",
+"path": "gotoviy_biznes/torgovlya-ASgBAgICAUToDKy2AQ"
+},
+{
+"name": "Туризм",
+"parent": "Готовый бизнес",
+"path": "gotoviy_biznes/gostinicy_i_bazy_otdykha-ASgBAgICAUToDNK88QI"
+},
+{
+"name": "IT бизнес",
+"parent": "Готовый бизнес",
+"path": "gotoviy_biznes/it_biznes-ASgBAgICAUToDJ62AQ"
+},
+{
+"name": "Другое",
+"parent": "Готовый бизнес",
+"path": "gotoviy_biznes/drugoe-ASgBAgICAUToDK62AQ"
+},
+{
+"name": "ПО для бизнеса",
+"parent": "Бизнес и оборудование",
+"path": "gotoviy_biznes/po_dlya_biznesa-ASgBAgICAUToDLKdkgM"
+},
+{
+"name": "Аналитика",
+"parent": "ПО для бизнеса",
+"path": "gotoviy_biznes/po_dlya_biznesa-ASgBAgICAUToDLKdkgM"
+},
+{
+"name": "Безопасность",
+"parent": "ПО для бизнеса",
+"path": "gotoviy_biznes/po_dlya_biznesa-ASgBAgICAUToDLKdkgM"
+},
+{
+"name": "Закупки, склад, логистика",
+"parent": "ПО для бизнеса",
+"path": "gotoviy_biznes/po_dlya_biznesa-ASgBAgICAUToDLKdkgM"
+},
+{
+"name": "Отраслевое ПО",
+"parent": "ПО для бизнеса",
+"path": "gotoviy_biznes/po_dlya_biznesa-ASgBAgICAUToDLKdkgM"
+},
+{
+"name": "Офисное ПО",
+"parent": "ПО для бизнеса",
+"path": "gotoviy_biznes/po_dlya_biznesa-ASgBAgICAUToDLKdkgM"
+},
+{
+"name": "Продажи и маркетинг",
+"parent": "ПО для бизнеса",
+"path": "gotoviy_biznes/po_dlya_biznesa-ASgBAgICAUToDLKdkgM"
+},
+{
+"name": "Управление персоналом и обучение",
+"parent": "ПО для бизнеса",
+"path": "gotoviy_biznes/po_dlya_biznesa-ASgBAgICAUToDLKdkgM"
+},
+{
+"name": "Управление предприятием и производством",
+"parent": "ПО для бизнеса",
+"path": "gotoviy_biznes/po_dlya_biznesa-ASgBAgICAUToDLKdkgM"
+},
+{
+"name": "Управление IT инфраструктурой",
+"parent": "ПО для бизнеса",
+"path": "gotoviy_biznes/po_dlya_biznesa-ASgBAgICAUToDLKdkgM"
+},
+{
+"name": "Автосервис, аренда",
+"parent": "Услуги",
+"path": "predlozheniya_uslug/transport_perevozki-ASgBAgICAUSYC8SfAQ"
+},
+{
+"name": "Перевозки и доставка",
+"parent": "Услуги",
+"path": "predlozheniya_uslug/gruzoperevozki-ASgBAgICAUSYC76IjgM"
+},
+{
+"name": "Пассажирские перевозки",
+"parent": "Услуги",
+"path": "predlozheniya_uslug/passazhirskie_perevozki-ASgBAgICAUSYC8CIjgM"
+},
+{
+"name": "Грузчики, складские услуги",
+"parent": "Услуги",
+"path": "predlozheniya_uslug/gruzchiki_skladskie_uslugi-ASgBAgICAUSYC8KIjgM"
+},
+{
+"name": "Услуги эвакуатора",
+"parent": "Услуги",
+"path": "predlozheniya_uslug/uslugi_evakuatora-ASgBAgICAUSYC8SIjgM"
+},
+{
+"name": "Ремонт и отделка",
+"parent": "Услуги",
+"path": "predlozheniya_uslug/remont_i_otdelka-ASgBAgICAUSYC8CfAQ"
+},
+{
+"name": "Строительство",
+"parent": "Услуги",
+"path": "predlozheniya_uslug/stroitelstvo-ASgBAgICAUSYC6Cf8QI"
+},
+{
+"name": "Сад, благоустройство",
+"parent": "Услуги",
+"path": "predlozheniya_uslug/sad_blagoustroystvo-ASgBAgICAUSYC8KfAQ"
+},
+{
+"name": "Красота",
+"parent": "Услуги",
+"path": "predlozheniya_uslug/krasota-ASgBAgICAUSYC6qfAQ"
+},
+{
+"name": "Здоровье",
+"parent": "Услуги",
+"path": "predlozheniya_uslug/zdorove-ASgBAgICAUSYC_CylQM"
+},
+{
+"name": "Ремонт и обслуживание техники",
+"parent": "Услуги",
+"path": "predlozheniya_uslug/remont_i_obsluzhivanie_tehniki-ASgBAgICAUSYC7T3AQ"
+},
+{
+"name": "Компьютерная помощь",
+"parent": "Услуги",
+"path": "predlozheniya_uslug/komp%27yuternaya_pomoshch%27-ASgBAgICAUSYC_78jQM"
+},
+{
+"name": "Монтаж и установка техники",
+"parent": "Услуги",
+"path": "predlozheniya_uslug/ustanovka_tehniki-ASgBAgICAUSYC9r1AQ"
+},
+{
+"name": "Оборудование, производство",
+"parent": "Услуги",
+"path": "predlozheniya_uslug/oborudovanie_proizvodstvo-ASgBAgICAUSYC7SfAQ"
+},
+{
+"name": "Обучение, курсы",
+"parent": "Услуги",
+"path": "predlozheniya_uslug/obuchenie_kursy-ASgBAgICAUSYC7afAQ"
+},
+{
+"name": "Деловые услуги",
+"parent": "Услуги",
+"path": "predlozheniya_uslug/delovye_uslugi-ASgBAgICAUSYC7KfAQ"
+},
+{
+"name": "Страхование",
+"parent": "Услуги",
+"path": "predlozheniya_uslug/strakhovanie-ASgBAgICAUSYC9SskgM"
+},
+{
+"name": "Услуги посредников",
+"parent": "Услуги",
+"path": "predlozheniya_uslug/uslugi_posrednikov-ASgBAgICAUSYC_jclgM"
+},
+{
+"name": "Полиграфия, наружная реклама",
+"parent": "Услуги",
+"path": "predlozheniya_uslug/poligrafiya_naruzhnaya_reklama-ASgBAgICAUSYC_rclgM"
+},
+{
+"name": "Вывоз мусора и вторсырья",
+"parent": "Услуги",
+"path": "predlozheniya_uslug/vyvoz_musora_i_priyom_vtorsyrya-ASgBAgICAUSYC5zLjQM"
+},
+{
+"name": "Уборка",
+"parent": "Услуги",
+"path": "predlozheniya_uslug/uborka_klining-ASgBAgICAUSYC7L3AQ"
+},
+{
+"name": "Дезинфекция, дезинсекция, спецуборка",
+"parent": "Услуги",
+"path": "predlozheniya_uslug/dezinfekciya_dezinsekciya_spetsuborka-ASgBAgICAUSYC5iFkwM"
+},
+{
+"name": "Бытовые услуги",
+"parent": "Услуги",
+"path": "predlozheniya_uslug/bytovye_uslugi-ASgBAgICAUSYC7CfAQ"
+},
+{
+"name": "Праздники, мероприятия",
+"parent": "Услуги",
+"path": "predlozheniya_uslug/prazdniki_meropriyatiya-ASgBAgICAUSYC7yfAQ"
+},
+{
+"name": "Досуг и отдых",
+"parent": "Услуги",
+"path": "predlozheniya_uslug/dosug_i_otdyh-ASgBAgICAUSYC7qonAM"
+},
+{
+"name": "Аренда для мероприятий и отдыха",
+"parent": "Услуги",
+"path": "predlozheniya_uslug/arenda_dlya_meropriyatii_i_otdyha-ASgBAgICAUSYC7yonAM"
+},
+{
+"name": "Еда и кейтеринг",
+"parent": "Услуги",
+"path": "predlozheniya_uslug/dostavka_produktov_desertov_kejtering-ASgBAgICAUSYC7qfAQ"
+},
+{
+"name": "Фото и видео",
+"parent": "Услуги",
+"path": "predlozheniya_uslug/foto-_i_videosemka-ASgBAgICAUSYC8ifAQ"
+},
+{
+"name": "Няни, сиделки",
+"parent": "Услуги",
+"path": "predlozheniya_uslug/nyani_sidelki-ASgBAgICAUSYC6ifAQ"
+},
+{
+"name": "Уход за животными",
+"parent": "Услуги",
+"path": "predlozheniya_uslug/uhod_za_zhivotnymi-ASgBAgICAUSYC8afAQ"
+},
+{
+"name": "Творчество",
+"parent": "Услуги",
+"path": "predlozheniya_uslug/iskusstvo-ASgBAgICAUSYC9ifAQ"
+},
+{
+"name": "Охрана, безопасность",
+"parent": "Услуги",
+"path": "predlozheniya_uslug/ohrana_bezopasnost-ASgBAgICAUSYC7ifAQ"
+},
+{
+"name": "Ремонт спортинвентаря",
+"parent": "Услуги",
+"path": "predlozheniya_uslug/remont_sportinventarya-ASgBAgICAUSYC5LWmwM"
+},
+{
+"name": "Другое",
+"parent": "Услуги",
+"path": "predlozheniya_uslug/drugoe-ASgBAgICAUSYC8qfAQ"
+},
+{
+"name": "Стиральные машины",
+"parent": "Ремонт и обслуживание техники",
+"path": "predlozheniya_uslug/remont_i_obsluzhivanie_tehniki/stiralnye_syshilnye_mashiny-ASgBAgICAkSYC7T3Ad4V1KCOAw"
+},
+{
+"name": "Посудомоечные машины",
+"parent": "Ремонт и обслуживание техники",
+"path": "predlozheniya_uslug/remont_i_obsluzhivanie_tehniki/posudomoechnye_mashiny-ASgBAgICAkSYC7T3Ad4V1qCOAw"
+},
+{
+"name": "Холодильники",
+"parent": "Ремонт и обслуживание техники",
+"path": "predlozheniya_uslug/remont_i_obsluzhivanie_tehniki/holodilniki_i_morozilnye_kamery-ASgBAgICAkSYC7T3Ad4V2KCOAw"
+},
+{
+"name": "Мобильные устройства",
+"parent": "Ремонт и обслуживание техники",
+"path": "predlozheniya_uslug/remont_i_obsluzhivanie_tehniki/mobilnyye_ustroystva-ASgBAgICAkSYC7T3Ad4V4vcB"
+},
+{
+"name": "Кондиционеры",
+"parent": "Ремонт и обслуживание техники",
+"path": "predlozheniya_uslug/remont_i_obsluzhivanie_tehniki/kondicionery_i_ventilyaciya-ASgBAgICAkSYC7T3Ad4V0qCOAw"
+},
+{
+"name": "Телевизоры",
+"parent": "Ремонт и обслуживание техники",
+"path": "predlozheniya_uslug/remont_i_obsluzhivanie_tehniki/televizor-ASgBAgICAkSYC7T3Ad4V2vcB"
+},
+{
+"name": "Диагностика",
+"parent": "Ремонт и обслуживание техники",
+"path": "predlozheniya_uslug/remont_i_obsluzhivanie_tehniki/mobilnyye_ustroystva/smartfony_planshety_i_drugie_ustrojstva/diagnostika_smartfona_plansheta_i_drugikh_ustroistv-ASgBAgICA0SYC7T3Ad4V4vcBrOoRwOCKAw"
+},
+{
+"name": "Замена дисплея",
+"parent": "Ремонт и обслуживание техники",
+"path": "predlozheniya_uslug/remont_i_obsluzhivanie_tehniki/mobilnyye_ustroystva/smartfony_planshety_i_drugie_ustrojstva/zamena_displeia-ASgBAgICA0SYC7T3Ad4V4vcBrOoR6uCKAw"
+},
+{
+"name": "Замена аккумулятора",
+"parent": "Ремонт и обслуживание техники",
+"path": "predlozheniya_uslug/remont_i_obsluzhivanie_tehniki/mobilnyye_ustroystva/smartfony_planshety_i_drugie_ustrojstva/zamena_akkumuliatora-ASgBAgICA0SYC7T3Ad4V4vcBrOoR0OORAw"
+},
+{
+"name": "Замена разъёма зарядки",
+"parent": "Ремонт и обслуживание техники",
+"path": "predlozheniya_uslug/remont_i_obsluzhivanie_tehniki/mobilnyye_ustroystva/smartfony_planshety_i_drugie_ustrojstva/zamena_raz_ioma_zariadki-ASgBAgICA0SYC7T3Ad4V4vcBrOoRgOGKAw"
+},
+{
+"name": "Замена стекла",
+"parent": "Ремонт и обслуживание техники",
+"path": "predlozheniya_uslug/remont_i_obsluzhivanie_tehniki/mobilnyye_ustroystva/smartfony_planshety_i_drugie_ustrojstva/zamena_stekla-ASgBAgICA0SYC7T3Ad4V4vcBrOoR2uCKAw"
+},
+{
+"name": "Замена динамика",
+"parent": "Ремонт и обслуживание техники",
+"path": "predlozheniya_uslug/remont_i_obsluzhivanie_tehniki/mobilnyye_ustroystva/smartfony_planshety_i_drugie_ustrojstva/zamena_dinamika-ASgBAgICA0SYC7T3Ad4V4vcBrOoR8uCKAw"
+},
+{
+"name": "Диагностика",
+"parent": "Ремонт и обслуживание техники",
+"path": "predlozheniya_uslug/remont_i_obsluzhivanie_tehniki/kondicionery_i_ventilyaciya/diagnostika_konditsionera_i_ventiliatsionnoi_sistemy-ASgBAgICA0SYC7T3Ad4V0qCOA8TqEbjgigM"
+},
+{
+"name": "Заправка фреоном",
+"parent": "Ремонт и обслуживание техники",
+"path": "predlozheniya_uslug/remont_i_obsluzhivanie_tehniki/kondicionery_i_ventilyaciya/zapravka_freonom-ASgBAgICA0SYC7T3Ad4V0qCOA8TqEZjhigM"
+},
+{
+"name": "Замена компрессора",
+"parent": "Ремонт и обслуживание техники",
+"path": "predlozheniya_uslug/remont_i_obsluzhivanie_tehniki/kondicionery_i_ventilyaciya/zamena_kompressora-ASgBAgICA0SYC7T3Ad4V0qCOA8TqEYjYkQM"
+},
+{
+"name": "Установка",
+"parent": "Услуги",
+"path": "predlozheniya_uslug/ustanovka_tehniki-ASgBAgICAUSYC9r1AQ"
+},
+{
+"name": "Чистка",
+"parent": "Ремонт и обслуживание техники",
+"path": "predlozheniya_uslug/remont_i_obsluzhivanie_tehniki/kondicionery_i_ventilyaciya/chistka_konditsionera-ASgBAgICA0SYC7T3Ad4V0qCOA8TqEcjgigM"
+},
+{
+"name": "Поиск утечки фреона",
+"parent": "Ремонт и обслуживание техники",
+"path": "predlozheniya_uslug/remont_i_obsluzhivanie_tehniki/kondicionery_i_ventilyaciya/poisk_utecki_freona-ASgBAgICA0SYC7T3Ad4V0qCOA8TqEZDYkQM"
+},
+{
+"name": "Диагностика",
+"parent": "Ремонт и обслуживание техники",
+"path": "predlozheniya_uslug/remont_i_obsluzhivanie_tehniki/holodilniki_i_morozilnye_kamery/diagnostika_kholodil_nika_i_morozil_noi_kamery-ASgBAgICA0SYC7T3Ad4V2KCOA8bqEf7eigM"
+},
+{
+"name": "Замена компрессора",
+"parent": "Ремонт и обслуживание техники",
+"path": "predlozheniya_uslug/remont_i_obsluzhivanie_tehniki/holodilniki_i_morozilnye_kamery/zamena_kompressora-ASgBAgICA0SYC7T3Ad4V2KCOA8bqEZDfigM"
+},
+{
+"name": "Ремонт электрики",
+"parent": "Ремонт и обслуживание техники",
+"path": "predlozheniya_uslug/remont_i_obsluzhivanie_tehniki/holodilniki_i_morozilnye_kamery/remont_elektriki-ASgBAgICA0SYC7T3Ad4V2KCOA8bqEbTlkQM"
+},
+{
+"name": "Заправка фреоном",
+"parent": "Ремонт и обслуживание техники",
+"path": "predlozheniya_uslug/remont_i_obsluzhivanie_tehniki/holodilniki_i_morozilnye_kamery/zapravka_freonom-ASgBAgICA0SYC7T3Ad4V2KCOA8bqEabfigM"
+},
+{
+"name": "Замена термостата",
+"parent": "Ремонт и обслуживание техники",
+"path": "predlozheniya_uslug/remont_i_obsluzhivanie_tehniki/holodilniki_i_morozilnye_kamery/zamena_termostata-ASgBAgICA0SYC7T3Ad4V2KCOA8bqEbDfigM"
+},
+{
+"name": "Замена ТЭН",
+"parent": "Ремонт и обслуживание техники",
+"path": "predlozheniya_uslug/remont_i_obsluzhivanie_tehniki/holodilniki_i_morozilnye_kamery/zamena_ten-ASgBAgICA0SYC7T3Ad4V2KCOA8bqEbzlkQM"
+}
+]

@@ -1,0 +1,31 @@
+# Окружение и кэши Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Профили браузера
+browser-profile/
+research/browser-profile/
+tests/.browser-profile/
+
+# Дампы, скриншоты и журналы исследования
+research/dumps/
+research/screenshots/
+research/*.png
+research/*.html
+research/*.log
+research/.last_load
+research/categories.json
+
+# Результаты ручных проверок
+tests/.live/
+tests/*.log
+
+# Резервные копии конфигов и прочее
+*.bak-*
+*.log
+
+# Настройки редактора
+.vscode/
+*.code-workspace
